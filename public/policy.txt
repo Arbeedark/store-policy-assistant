@@ -1,11 +1,11 @@
 Adverse Reactions Policy
 
 1. Statement
-We’ll first look at products that have caused an adverse reaction. This is where a customer has purchased a product from us, and its use has caused an Adverse Reaction. Getting this process right is incredibly important as customers could have had a severe reaction to a product that we’ve sold them.
+Weâ€™ll first look at products that have caused an adverse reaction. This is where a customer has purchased a product from us, and its use has caused an Adverse Reaction. Getting this process right is incredibly important as customers could have had a severe reaction to a product that weâ€™ve sold them.
 2. What is an Adverse Reaction?
 2.1	An adverse reaction is an unintended harmful effect that occurs following the correct use or 	consumption of a product. This includes products which are taken orally or those that are applied to the 	skin.
 2.2	Adverse Reaction examples include; rashes, redness of skin, burning, digestive upsets, headaches, 	nausea, medical attention required, persistent side effects, life threatening side effect (seizure, 	anaphylactic shock). This list is not exhaustive.
-2.3	Some reactions contain technical terms, and we don’t expect you to know all of them. We do ask that 	you enter anything the customer says in relation to an adverse reaction onto the till system and our 	Regulatory team will do the rest. In these situations, it is vital that you record the BBE and batch 	number. This helps technical services and regulatory services to log complaints correctly and enables the 	supplier to carry out a thorough investigation. 
+2.3	Some reactions contain technical terms, and we donâ€™t expect you to know all of them. We do ask that 	you enter anything the customer says in relation to an adverse reaction onto the till system and our 	Regulatory team will do the rest. In these situations, it is vital that you record the BBE and batch 	number. This helps technical services and regulatory services to log complaints correctly and enables the 	supplier to carry out a thorough investigation. 
 3. Returning products due to an Adverse Reaction
 3.1 	All returns from customers reporting an adverse reaction or a product fault should be dealt with 	sensitively. 
 3.2	If a customer returns a product that is faulty or has caused an adverse reaction they are entitled to a 	refund, exchange or credit note within a longer timeframe following the initial purchase. 
@@ -61,14 +61,14 @@ It is crucial that the policy is followed correctly to ensure store safety and s
 4.2	Where this is NOT possible tills MUST be counted after you have closed the store.
 5. Preparing your banking 
 5.1	Your banking MUST be prepared in the evening after all tills have been cashed up. This increases 	security and reduces mistakes made with the banking bags. 
-5.2	No more that £/$4.99 in coins can be included in an individual daily banking bag.
+5.2	No more that Â£/$4.99 in coins can be included in an individual daily banking bag.
 5.3	When paying back a change order the order must be paid back with notes only.
 5.4	Each individual bag MUST be sealed and signed by the person sealing the bag. These then MUST 	be kept in the safe inside an open outer bag ready for your cash collection.
 5.5	For traceability you MUST record the inner bag number on the duplicate bank deposit. 
 5.4	The duplicate slips MUST remain in the banking book and be kept for 3 months. Retain used banking 	books in your safe. After 3 months please shred any duplicate slips.
 6. Safe Management
 6.1	It is the store management responsibility to ensure accurate safe management at all times. We 	have put measures in place to aid this process which include safe checks, change ordering and 	change repayment.
-6.2	You MUST complete your safe check every day and the person who has counted it MUST be the 	person that signs into the ‘Safe Bags’ page on Bumblebee Reporting to verify this as they will be 	held accountable for any losses on that count.
+6.2	You MUST complete your safe check every day and the person who has counted it MUST be the 	person that signs into the â€˜Safe Bagsâ€™ page on Bumblebee Reporting to verify this as they will be 	held accountable for any losses on that count.
 6.3	You must order change through Loomis on your nominated order day, or you risk not having 	adequate change floats to serve your customer needs. If you miss the deadline for ordering change, 	you must wait until the following week. You must NOT go to the bank to get change.
 6.4	Your change order must always be paid back in arrears. On your cash collection day, you will be 	expected to repay the FULL change order amount which was delivered on the previous cash 	collection.
 7. Cash Collection Guards
@@ -100,7 +100,7 @@ For the purposes of this policy, the following terms have the following meanings
 2.8	Surveillance systems: means any devices or systems designed to monitor or record images of 	individuals or information relating to individuals. The term includes CCTV systems as well as any 	technology that may be introduced in the future such as automatic number plate recognition 	(ANPR), body worn cameras, unmanned aerial systems and any other systems that capture 	information of identifiable individuals or information relating to identifiable individuals.
 3. ABOUT THIS POLICY
 3.1	We currently use CCTV cameras to view and record individuals on and around our premises. This 	policy outlines why we use CCTV, how we will use CCTV and how we will process information 	recorded by CCTV cameras to ensure we are compliant with data protection law and best practice. 	This policy also explains how to make a subject access request in respect of personal information 	created by CCTV.
-3.2	We recognise that information that we hold about individuals is subject to the EU General Data 	Protection Regulation (GDPR). We are committed to complying with all our legal obligations under 	the GDPR. The images of individuals recorded by CCTV cameras in the workplace are personal 	information and therefore subject to the GDPR. We are a data controller in relation to the CCTV we 	use in our operations, and we seek to comply with best practice suggestions from the Information 	Commissioner’s Office (ICO).
+3.2	We recognise that information that we hold about individuals is subject to the EU General Data 	Protection Regulation (GDPR). We are committed to complying with all our legal obligations under 	the GDPR. The images of individuals recorded by CCTV cameras in the workplace are personal 	information and therefore subject to the GDPR. We are a data controller in relation to the CCTV we 	use in our operations, and we seek to comply with best practice suggestions from the Information 	Commissionerâ€™s Office (ICO).
 3.3	This policy covers all employees' directors, officers, consultants, contractors, freelancers, 	volunteers, interns, casual workers, and agency workers and may also be relevant to visiting 	members of the public. 
 3.4	This policy is non-contractual and does not form part of the terms and conditions of any 	employment or other contract. We may amend this policy at any time without consultation. The 	policy will be regularly reviewed to ensure that it meets legal requirements, relevant guidance 	published by the ICO and industry standards.
 3.5	Failing to observe the requirements of this policy may amount to a disciplinary offence, which will 	be dealt with under Holland & Barrett's disciplinary procedure. Significant or deliberate breaches of 	this policy, such as accessing or disclosing CCTV information without authorisation or a legitimate 	reason to do so, may constitute gross misconduct and could lead to dismissal without notice.
@@ -162,18 +162,18 @@ This list is not exhaustive and other purposes may be or become relevant.
 16.1	We recognise that, in rare circumstances, individuals may have a legal right to prevent processing 	likely to cause substantial and unwarranted damage, or to prevent automated decision making. For 	further 	information regarding this, please contact officeofdataprotection@hollandandbarrett.com
 Charity Fundraising
 1. Statement
-Charitable donations, whether in the form of money or donations in-kind (such as time, products or services), are an important part of activating our social purpose – to add quality years of life. Through supporting the work of charities, we can work together to have even more impact and reach in supporting the nation’s wellness. 
-Our Charity Fundraising and Donations Policy sets out rules to make sure that we are supporting reputable charities and organisations and conducting fundraising with our colleagues and customers in the right way. 
+Charitable donations, whether in the form of money or donations in-kind (such as time, products or services), are an important part of activating our social purpose â€“ to add quality years of life. Through supporting the work of charities, we can work together to have even more impact and reach in supporting the nationâ€™s wellness.Â 
+Our Charity Fundraising and Donations Policy sets out rules to make sure that we are supporting reputable charities and organisations and conducting fundraising with our colleagues and customers in the right way.Â 
 2. Principles
-2.1 	Internal Fundraising activities: Fundraising during working hours is only allowed for the support of 	Holland & Barrett’s official charity partner(s). 
-2.2	Colleagues involved in fundraising activities should make sure that their primary job responsibilities 	and customer care are not compromised. 
-2.3	Colleague fundraising for charities that are not formally supported by Holland & Barrett falls 	outside the scope of this policy. However, where Holland & Barrett “tops up” the amount raised by 	colleagues, then policy must be followed, and relevant authority obtained. 
-2.4	In addition to respecting local laws, and Holland & Barrett’s other policies, the following rules apply 	in relation to fundraising and charitable donations: 
+2.1 	Internal Fundraising activities: Fundraising during working hours is only allowed for the support of 	Holland & Barrettâ€™s official charity partner(s).Â 
+2.2	Colleagues involved in fundraising activities should make sure that their primary job responsibilities 	and customer care are not compromised.Â 
+2.3	Colleague fundraising for charities that are not formally supported by Holland & Barrett falls 	outside the scope of this policy. However, where Holland & Barrett â€œtops upâ€ the amount raised by 	colleagues, then policy must be followed, and relevant authority obtained.Â 
+2.4	In addition to respecting local laws, and Holland & Barrettâ€™s other policies, the following rules apply 	in relation to fundraising and charitable donations:Â 
 3. Scope
-3.1	Fundraising for charities or organisation that are formally supported by Holland and Barrett. 
+3.1	Fundraising for charities or organisation that are formally supported by Holland and Barrett.Â 
 3.2	All Business Units and Divisions that are operated by Holland & Barrett or are majority owned by 	Holland & Barrett.
 3.3	Third parties, including contracts and suppliers who make charitable donations on behalf of Holland 	& Barrett.
-3.4	Franchise and owned joint ventures (for International) are expected to put in place polices 	consistent with the policy. 
+3.4	Franchise and owned joint ventures (for International) are expected to put in place polices 	consistent with the policy.Â 
 	
 4. Activities
 4.1	All fundraising initiatives taking place during work hours should be agreed in writing by your line 	manager ahead of time and must consider health and safety aspects as well as ensuring no 	offence can be caused by the activity.
@@ -181,51 +181,51 @@ Our Charity Fundraising and Donations Policy sets out rules to make sure that we
 > Colleague donation drives.
 > Internal events such as charity auctions, casual/fancy dress days, sponsored activities.
 > External, organised 3rd party events such as a fun run, sponsored walk, sky dive etc where monies raised can be for your chosen charity.
-> Charitable social events organised by Holland & Barrett: Our Gift & Entertainment policy provides guidance for colleagues who are organising charitable events. In particular, it is important to ensure that suppliers or other stakeholders are not pressured into purchasing tickets for a charity event. 
+> Charitable social events organised by Holland & Barrett: Our Gift & Entertainment policy provides guidance for colleagues who are organising charitable events. In particular, it is important to ensure that suppliers or other stakeholders are not pressured into purchasing tickets for a charity event.Â 
 4.3	If  colleagues are considering organising charity fundraising events, such as sporting events or 	charity dinners, they should contact retailcommunications@hollandandbarrett.com or H&B Help for 	more information on funding prior to organising. 
 5. Supplier 
 5.1	Where suppliers co-sponsor a charitable initiative, their role as sponsor must be clearly and 	appropriately 	acknowledged by Holland & Barrett.
 5.2	Where suppliers are invited to buy tickets for Holland & Barrett fundraising events, the price of such 	tickets must not be used to subsidise the cost of running the event, including the cost for H&B 	colleagues to attend.
 5.3	Where Holland & Barrett is donating to charity, colleagues may not take credit for contributions 	made by suppliers or other parties.
-5.4	When asking suppliers for a donation as part of a fund-raising activity, the donation must be in a 	non-cash form e.g. a product for a raffle. 
-5.5	When asking for suppliers to sponsor personal colleague fundraising activity, any donation above 	£50/€50 should be logged on the gift & hospitality register as per the gift & entertainment policy. 
+5.4	When asking suppliers for a donation as part of a fund-raising activity, the donation must be in a 	non-cash form e.g. a product for a raffle.Â 
+5.5	When asking for suppliers to sponsor personal colleague fundraising activity, any donation above 	Â£50/â‚¬50 should be logged on the gift & hospitality register as per the gift & entertainment policy.Â 
 6. Monetary Collections & Donations
-6.1	Colleague fundraising collections: Colleagues can set up a “Just Giving page” linked to the main 	Holland & Barrett just giving page for online donations and sponsorship for activities. This allows all 	fundraising to be tracked centrally. Just giving pages should not be accessed on any company 	devices.
-6.2	Donation Collection: Employees should not pressure or coerce colleagues, customers or suppliers 	into making donations. Donations should be voluntary, and the amount individually contributed 	should have the option to be kept confidential. 
+6.1	Colleague fundraising collections: Colleagues can set up a â€œJust Giving pageâ€ linked to the main 	Holland & Barrett just giving page for online donations and sponsorship for activities. This allows all 	fundraising to be tracked centrally.Â Just giving pages should not be accessed on any company 	devices.
+6.2	Donation Collection: Employees should not pressure or coerce colleagues, customers or suppliers 	into making donations. Donations should be voluntary, and the amount individually contributed 	should have the option to be kept confidential.Â 
 6.3	No use of expenses to process charitable donations: Cash donations to charity may not be made by 	a colleague on behalf of Holland & Barrett and reclaimed as personal expenses.
-6.4	All donations must be made in line with Holland & Barrett’s Bribery & Corruption Policy. 
+6.4	All donations must be made in line with Holland & Barrettâ€™s Bribery & Corruption Policy.Â 
 
-6.5	Corporate Donations can only be made to charities registered with the relevant charity commission 	in each location, as approved by the Charity Partnerships Team. 
-6.6	Donations made to charities from the sale of specific products: (cause-related marketing) must 	always have a written contract in place: A promotional statement, which states who the donation is 	from, must also be used on all marketing materials including posters, leaflets and labels. 
+6.5	Corporate Donations can only be made to charities registered with the relevant charity commission 	in each location, as approved by the Charity Partnerships Team.Â 
+6.6	Donations made to charities from the sale of specific products: (cause-related marketing) must 	always have a written contract in place: A promotional statement, which states who the donation is 	from, must also be used on all marketing materials including posters, leaflets and labels.Â 
 7. Reporting and Monitoring
 7.1	The Finance Department will monitor the progress and success of fundraising activities. A summary 	report, including funds raised and the impact on the designated cause, will be published annually in 	line with the ESG policy.
-7.2	ESG team / Communities Team to maintain a log of charitable donations. 
-7.3	The Risk & Compliance Committee reviews the log of charitable twice each year. 
+7.2	ESG team / Communities Team to maintain a log of charitable donations.Â 
+7.3	The Risk & Compliance Committee reviews the log of charitable twice each year.Â 
 8. Adherence
-8.1	Failure to adhere to this policy may result in disciplinary action. 
-8.2	Colleagues have a duty to speak up if they believe the policy has been breached. Our Code of 	Business Conduct provides guidance on who colleagues can speak to, including details of our 	whistleblower policy, a confidential helpline. 
-9. Non-Permitted Actions 
-9.1	We don’t want to spoil anyone’s fun this Red Nose Day but for health and safety reasons there are 	some things we are unable to do while fundraising. It is the responsibility of all colleagues to ensure 	health and safety guidance is always adhered to.
-9.2	Fancy dress should be politically appropriate and non-offensive. Any clothing worn should not in 	any way impede your normal working activity, and not put the health and safety of you, your 	colleagues or 	customers at risk. 
-9.3	You must still wear appropriate, non-slip footwear to avoid slips, trips and falls. Any loose items 	that can catch on things when working rollers etc (dangling clothing, dangling jewellery) should not 	be worn. The outfit should be clean and cleanable, and not be made of a material that sheds 	foreign objects into the store. Your fancy dress must also be approved by your line manager. 
-9.4	We cannot bring food into work to sell to customers or staff.
-9.5	We must adhere to food hygiene guidance at all times in our stores and unfortunately this doesn’t 	not allow for us to sell any food or drink items which have been prepared elsewhere, and may 	contain allergens or foreign objects, so please avoid this.
-9.6 	We must not bring in any electrical equipment as it has not been tested by us and may cause fire 	risk.
-9.7	We must not bring in or move any equipment to a position that may cause obstruction or trip 	hazards. 
-9.8	We must always follow the general Health & Safety guidelines in the Health & Safety Manual found 	here & Store  Generic Risk Assessments here. 
+8.1	Failure to adhere to this policy may result in disciplinary action.Â 
+8.2	Colleagues have a duty to speak up if they believe the policy has been breached. Our Code of 	Business Conduct provides guidance on who colleagues can speak to, including details of our 	whistleblower policy, a confidential helpline.Â 
+9. Non-Permitted ActionsÂ 
+9.1	We donâ€™t want to spoil anyoneâ€™s fun this Red Nose Day but for health and safety reasons there are 	some things we are unable to do while fundraising. It is the responsibility of all colleagues to ensure 	health and safety guidance is always adhered to.
+9.2	Fancy dress should be politically appropriate and non-offensive. Any clothing worn should not in 	any way impede your normal working activity, and not put the health and safety of you, your 	colleagues or 	customers at risk.Â 
+9.3	You must still wear appropriate, non-slip footwear to avoid slips, trips and falls. Any loose items 	that can catch on things when working rollers etc (dangling clothing, dangling jewellery) should not 	be worn. The outfit should be clean and cleanable, and not be made of a material that sheds 	foreign objects into the store. Your fancy dress must also be approved by your line manager.Â 
+9.4	WeÂ cannotÂ bringÂ foodÂ intoÂ workÂ toÂ sellÂ to customersÂ or staff.
+9.5	WeÂ mustÂ adhereÂ toÂ foodÂ hygieneÂ guidanceÂ atÂ allÂ timesÂ inÂ our stores and unfortunately this doesnâ€™t 	not allow for us to sell any food or drink items which have been prepared elsewhere, and may 	contain allergens or foreign objects, so please avoid this.
+9.6 	WeÂ mustÂ notÂ bring in any electrical equipment as it has not been tested by us and may cause fire 	risk.
+9.7	WeÂ must not bring in or moveÂ any equipment to a position that may cause obstruction or trip 	hazards. 
+9.8	We must always follow the general Health & Safety guidelines in the Health & Safety Manual found 	here & StoreÂ  Generic Risk Assessments here.Â 
 9.9	For events involving latex balloons, all colleagues should be aware that these balloons may cause 	an allergic reaction without the sufferer necessarily making direct contact. Stores should therefore 	be aware of such latex allergy sufferers when promoting products and events that involve latex 	balloons.
 10. Fundraising Outside Work
-10. 1	Although Holland and Barrett does not control what you do outside of work, we ask that you do not 	conduct fundraising in such a way that will pose risk to your health and safety or that of others. You 	must at all times keep health and safety and food hygiene in mind.
+10. 1	AlthoughÂ HollandÂ andÂ BarrettÂ doesÂ notÂ controlÂ what you do outside of work, we ask that you do not 	conduct fundraising in such a way that will pose risk to your health and safety or that of others. You 	mustÂ at all timesÂ keep healthÂ andÂ safetyÂ andÂ foodÂ hygieneÂ in mind.
 10.2	Other things to consider:
-> Data Protection – you must always comply with GDPR during the fundraising process and ensure all personal data is protected and not shared. Refer to the policy [here]
+> Data Protection â€“ you must always comply with GDPR during the fundraising process and ensure all personal data is protected and not shared. Refer to the policy [here]
 > When fundraising for a company supported charity, please remember you are a representative of the company and should act accordingly.
-10.3	Consequences of Non-Compliance: Failure to adhere to this policy may result in disciplinary action. 
+10.3	Consequences of Non-Compliance: Failure to adhere to this policy may result in disciplinary action.Â 
 11. Health & Safety
 The following minimum standards must be adopted by all involved in store events:
 11.1	An event risk assessment must be completed by the store prior to any event. Risk assessment 	templates are available here. 
 11.2	The risk assessment and controls must be used to brief the team conducting the event.
 11.3      The risk assessment should record the controls that must be in place to ensure the safety of the 	event. 	You should store this in the EHS folder.
-11.4	This event risk assessment must cover any additional risks the fundraising activity creates, that’s are 	not already covered in your store generic risk assessments found here or Health and Safety manual 	found here. 
+11.4	This event risk assessment must cover any additional risks the fundraising activity creates, thatâ€™s are 	not already covered in your store generic risk assessments found here or Health and Safety manual 	found here. 
 ??11.5	All events must be actively managed by the store to ensure there is no negative experience to our 	colleagues or customers, this includes supervision and monitoring to ensure safe controls are in 	place.
 ??11.6	It is the store manager's responsibility to ensure that the people involved in the event are briefed in 	the controls that must be taken, and that this is recorded on the risk assessment.
 11.7	Consideration must be given to the location within which any event Shopfitting display aid will be 	located so it does not prevent an obstruction to disabled customers, a fire evacuation or visually 	obstruct a fire escape or other safety signage.
@@ -238,34 +238,34 @@ The following minimum standards must be adopted by all involved in store events:
 	
 COSHH Policy
 Contents
-1.  Introduction 
+1.  IntroductionÂ 
 2. Scope 
 3. Definitions 
-4. Responsibilities 
+4. ResponsibilitiesÂ 
 5. Procedures 
 6. General 
 7. Training 
-8. Health Surveillance 
-9. Planning for Accidents, Incident and Emergencies 
+8. Health SurveillanceÂ 
+9. Planning for Accidents, Incident and EmergenciesÂ 
 10. Audits 
 11. Monitoring & Review 
-12. Further information and advice 
+12. Further information and adviceÂ 
 13. Appendix
-1. Introduction
-This policy sets out the commitment of Holland and Barrett Ltd to provide safe and secure environment for our colleagues, visitors, and contractors. The policy arrangements are based on the requirements of the Control of Substances Hazardous to Health Regulations 2002 (as amended, hereafter referred to as the ‘COSHH Regulations’) and accompanying Approved Code of Practice and guidance, together with other legislative and best practice performance standards. It identifies how the Holland & Barrett will identify and manage the risks arising from hazardous substances used in or created by workplace activities. In recognition of these legal obligations and the potential adverse health effects to staff and others from exposure, Holland & Barrett will implement appropriate arrangements to ensure that no work activities are carried out without first considering the risks and necessary precautions, and any other action necessary to comply with the Regulations. This will be achieved by carrying out an assessment of the risks to health and implementing appropriate control measures to either prevent exposure, or where this is not reasonably practicable, adequately control. The COSHH Regulations only apply to substances which are hazardous to health. COSHH does not cover Lead, Asbestos, or radioactive substances.
+1.Â Introduction
+This policy sets out the commitment of Holland and Barrett Ltd to provide safe and secure environment for our colleagues, visitors, and contractors. The policy arrangements are based on the requirements of the Control of Substances Hazardous to Health Regulations 2002 (as amended, hereafter referred to as the â€˜COSHH Regulationsâ€™) and accompanying Approved Code of Practice and guidance, together with other legislative and best practice performance standards. It identifies how the Holland & Barrett will identify and manage the risks arising from hazardous substances used in or created by workplace activities. In recognition of these legal obligations and the potential adverse health effects to staff and others from exposure, Holland & Barrett will implement appropriate arrangements to ensure that no work activities are carried out without first considering the risks and necessary precautions, and any other action necessary to comply with the Regulations. This will be achieved by carrying out an assessment of the risks to health and implementing appropriate control measures to either prevent exposure, or where this is not reasonably practicable, adequately control. The COSHH Regulations only apply to substances which are hazardous to health. COSHH does not cover Lead, Asbestos, or radioactive substances.
 2. Scope
-2.1   	This document provides the core standards that must be achieved by Holland and Barrett Ltd 	to  ensure compliance with The Control of Substances Hazardous to Health (COSHH). 
-2.2  	 It is intended to provide relevant information to managers and all other employees to enable 	everyone  to conduct themselves in a safe manner.
+2.1Â  Â 	This document provides the core standards that must be achieved by Holland and Barrett Ltd 	to Â ensure compliance with The Control of Substances Hazardous to Health (COSHH).Â 
+2.2Â  	Â It is intended to provide relevant information to managers and all other employees to enable 	everyoneÂ  to conduct themselves in a safe manner.
 3. Definitions
-3.1   	Hazardous substance is a substance with the potential to cause harm if inhaled, ingested, injected, 	or  absorbed through the skin or released into the environment. Common substances such as 	cleaning materials, herbicides and pesticides can be hazardous and/or harmful to the environment.
+3.1Â  Â 	Hazardous substance is a substance with the potential to cause harm if inhaled, ingested, injected, 	orÂ  absorbed through the skin or released into the environment. Common substances such as 	cleaning materials, herbicides and pesticides can be hazardous and/or harmful to the environment.
 3.2	Hazardous substances occur in the following forms from a packaged item, work process or waste:
 3.3	Substances or a mixture of substances classified as dangerous which carry warnings such as
 	Toxic, Very Toxic, Harmful, Corrosive, Irritant, Sensitising or Carcinogenic.
-• Substances with Workplace Exposure Limits (WEL).
-• Biological agents (bacteria, viruses, and other micro-organisms).
-• Any kind of dust in a specific concentration.
-• Any other substances which may potentially create a risk to health, e.g., dusts, liquids, vapours, gases, mist, fibres, solids, or smoke.
-3.4 	REACH is a European Union regulation concerning the Registration, Evaluation, Authorisation,
+â€¢ Substances with Workplace Exposure Limits (WEL).
+â€¢ Biological agents (bacteria, viruses, and other micro-organisms).
+â€¢ Any kind of dust in a specific concentration.
+â€¢ Any other substances which may potentially create a risk to health, e.g., dusts, liquids, vapours, gases, mist, fibres, solids, or smoke.
+3.4Â 	REACH is a European Union regulation concerning the Registration, Evaluation, Authorisation,
 	and restriction of Chemicals. It came into force on 1 June 2007 and replaces several European
 	Directives and Regulations with a single system. REACH will operate alongside COSHH and is 	designed
 	so that better information on the hazards of chemicals and how to use them safely will be passed
@@ -279,12 +279,12 @@ This policy sets out the commitment of Holland and Barrett Ltd to provide safe a
 	and an evaluation of their potential to cause harm.
 3.7	CLP is European Regulation (EC) No 1272/2008 on classification, labelling and packaging of
 	substances and mixtures came into force on 20 January 2009 in all European Union (EU) Member
-	States, including the UK. It is known by its abbreviated form, 'the CLP Regulation' or 'CLP’.
+	States, including the UK. It is known by its abbreviated form, 'the CLP Regulation' or 'CLPâ€™.
 	The EU CLP Regulation adopts the United Nations' Globally Harmonized System of the classification
 	and labelling of chemicals (GHS) across all EU countries, including the UK, when the UK was an EU
 	Member State.
 4. Responsibilities 
-4.1   	The Retail Director is responsible for ensuring all activities within the business are
+4.1Â  Â 	The Retail Director is responsible for ensuring all activities within the business are
 	managed in accordance with regulatory requirements and company policies.
 	The Group head of EHS is responsible for ensuring that the Management team implement and 	monitor this policy and procedures therein by providing support ensuring knowledge is maintained 	through training programmes.
 	Retail Operations Manager is responsible for ensuring that their management team are aware of this
@@ -292,99 +292,99 @@ This policy sets out the commitment of Holland and Barrett Ltd to provide safe a
 	Retail Operations are responsible for ensuring that their management team are aware of this policy,
 	the policy requirements and that it is always adhered too.
 	Store Managers and operationally trained colleagues are responsible for ensuring that: 
-• They understand the scope and content of risks within their area of control (including the use
+â€¢ They understand the scope and content of risks within their area of control (including the use
    of chemicals).
-• Bates submit MSDS documents to the Store along with their order upon delivery
-• Hazardous substances are not used until they have been issued with a completed COSHH
+â€¢ Bates submit MSDS documents to the Store along with their order upon delivery
+â€¢ Hazardous substances are not used until they have been issued with a completed COSHH
    assessment from the EHS department
-• Their colleagues are aware of this policy and the requirements within it.
-• Their colleagues receive information, appropriate instruction, supervision, and training.
-• The Store Manager will implement the control measures decided upon prior to the use of any
+â€¢ Their colleagues are aware of this policy and the requirements within it.
+â€¢ Their colleagues receive information, appropriate instruction, supervision, and training.
+â€¢ The Store Manager will implement the control measures decided upon prior to the use of any
    product in their store.
-• Communicate the findings from the COSHH risk assessments to their colleagues and obtain
+â€¢ Communicate the findings from the COSHH risk assessments to their colleagues and obtain
    sign off to ensure they understand the findings and control measures.
-• No modifications are made to any substance.
-• Product being decanted are stored in the correct container provided and labelled accordingly
+â€¢ No modifications are made to any substance.
+â€¢ Product being decanted are stored in the correct container provided and labelled accordingly
    Retail Operations will Communicate safe working instruction and obtain sign off to ensure they
    understand the process.
-• Continually look at other risks not covered in the risk assessment and advise upon control
+â€¢ Continually look at other risks not covered in the risk assessment and advise upon control
    measures in conjunction with the Health, Safety & Environmental Manager and Specialists.
 	
-4.2         EHS Manager is responsible for ensuring that:   	
-• The policy is developed, implemented, communicated, and reviewed when required.
-• Help in the creation/review of COSHH risk assessments as required.
-• Audit the system, to ensure COSHH assessments are being completed, MSDS sheets are
+4.2         EHS Manager is responsible for ensuring that:Â  Â 	
+â€¢ The policy is developed, implemented, communicated, and reviewed when required.
+â€¢ Help in the creation/review of COSHH risk assessments as required.
+â€¢ Audit the system, to ensure COSHH assessments are being completed, MSDS sheets are
   available, the inventory is up to date, chemicals are stored correctly, and colleagues are
   following the processes accordingly.
 4. Responsibilities (Cont)
-4.3   	EHS Specialist is responsible for ensuring that: 
-• Developing, communicating, and reviewing COSHH risk assessments when
+4.3Â  Â 	EHS Specialist is responsible for ensuring that: 
+â€¢ Developing, communicating, and reviewing COSHH risk assessments when
    required.
-• Ensure the MSDS sheets are available and kept up to date.
-• Ensure that Managers/Supervisors are communicating the COSHH assessments to colleagues and obtaining sign off.
-• Maintaining the COSHH inventory.
-• Monitor & audit compliance.
+â€¢ Ensure the MSDS sheets are available and kept up to date.
+â€¢ Ensure that Managers/Supervisors are communicating the COSHH assessments to colleagues and obtaining sign off.
+â€¢ Maintaining the COSHH inventory.
+â€¢ Monitor & audit compliance.
 		
 4.4        Colleagues are responsible for ensuring that they Cooperate with Holland and Barrett Ltd regarding 	compliance with the COSHH regulations and this policy:
-• Do not mix chemicals when cleaning toilet areas. Only use one product at a time.
-• Take reasonable care of their own safety and the safety of others who may be affected by their
+â€¢ Do not mix chemicals when cleaning toilet areas. Only use one product at a time.
+â€¢ Take reasonable care of their own safety and the safety of others who may be affected by their
    acts or omissions.
-• Store chemicals in their designated location after use.
-• Immediately inform their line manager if they suspect that the product is being used
+â€¢ Store chemicals in their designated location after use.
+â€¢ Immediately inform their line manager if they suspect that the product is being used
    incorrectly.
-• Ensure that they wear the appropriate PPE as identified within the COSHH risk assessment.
-• Ensure that any information, instruction, and training is available to colleagues if required.
-• Immediately report to their line manager any issues or spillages.
+â€¢ Ensure that they wear the appropriate PPE as identified within the COSHH risk assessment.
+â€¢ Ensure that any information, instruction, and training is available to colleagues if required.
+â€¢ Immediately report to their line manager any issues or spillages.
 5. Procedures
 5.1    This policy and procedure must be adhered to all times, if there are any concerns stop the works
 	immediately and report immediately to the relevant manager.
-5.2   	Use of Hazardous Substances must only be undertaken after a suitable and sufficient COSHH  Risk 	assessment has been undertaken.
-5.3   	Any new hazardous products delivered into stores must be accompanied with a MSDS and EHS
+5.2Â  Â 	Use of Hazardous Substances must only be undertaken after a suitable and sufficient COSHH  Risk 	assessment has been undertaken.
+5.3Â  Â 	Any new hazardous products delivered into stores must be accompanied with a MSDS and EHS
 	team notified.
 5. Procedures (Cont)
-5.4   	The procedures and hazards identified in the COSHH risk assessment are communicated to the
+5.4Â  Â 	The procedures and hazards identified in the COSHH risk assessment are communicated to the
 	colleagues that may use or be affected by its use.
-5.5   	Copies of the COSHH risk assessment are given to the relevant members of staff. Copies are also
+5.5Â  Â 	Copies of the COSHH risk assessment are given to the relevant members of staff. Copies are also
 	kept in their folder and on the EHS database on the COSHH inventory for re-use, training, and staff
 	induction purposes.
-5.6  	All COSHH risk assessments are reviewed when required.
-5.7   	Where substances must be used, aims to substitute these for a less harmful substance to minimise
+5.6 Â 	All COSHH risk assessments are reviewed when required.
+5.7Â  Â 	Where substances must be used, aims to substitute these for a less harmful substance to minimise
 	risks will be actioned.
-5.8  	Local exhaust ventilation will be provided if reasonably practicable for areas that give off dusts or
+5.8 Â 	Local exhaust ventilation will be provided if reasonably practicable for areas that give off dusts or
 	vapours.
 6. General
-6.1 	 This policy covers the use, storage, and transportation of products used in stores.
+6.1Â 	 This policy covers the use, storage, and transportation of products used in stores.
 7. Training
 7.1	COSHH awareness training will be carried out at the time of induction through Hive.
 7.2	Additional training will be identified through the training needs analysis within the Retail sector.
 	This will cover any specialist training for example COSHH training.
-7.3	Training records will be kept up to date on the individual’s file
+7.3	Training records will be kept up to date on the individualâ€™s file
  8.  Planning for Accidents, Incident and 	Emergencies
-8.1  	This policy aims to effectively, manage every identified risk that is involved with the use of a
-	hazardous substance, however, there may be instances when accidents, such as spillages, could 	occur and may be damaging to an individual’s health.
-8.2  	The risk assessment undertaken for each hazardous substance is kept with each substance, so
+8.1 Â 	This policy aims to effectively, manage every identified risk that is involved with the use of a
+	hazardous substance, however, there may be instances when accidents, such as spillages, could 	occur and may be damaging to an individualâ€™s health.
+8.2 Â 	The risk assessment undertaken for each hazardous substance is kept with each substance, so
 	that colleagues are aware of the emergency procedures and first aid.
-8.3  	Incidents are responded to promptly, and the harmful effects are minimised where possible.
-8.4  	Where substances must be used, aims to substitute these for a less harmful substance to minimise
+8.3 Â 	Incidents are responded to promptly, and the harmful effects are minimised where possible.
+8.4 Â 	Where substances must be used, aims to substitute these for a less harmful substance to minimise
 	risks will be actioned.
-8.5  	Emergency services are contacted immediately where the incident cannot be resolved by a
+8.5 Â 	Emergency services are contacted immediately where the incident cannot be resolved by a
 	trained colleague.
 9. 	Audit
-9.1 	 Regular audits will be carried out to ensure compliance to this policy and procedures.
+9.1Â 	 Regular audits will be carried out to ensure compliance to this policy and procedures.
 10. Monitoring and Review
 10.1	This policy and procedures will be monitored on a regular basis to ensure effectiveness and 	reviewed from time to time mainly due to changes in legislation or procedures. Any changes will be
 	communicated to all employees through toolbox talks, PowerPoint, or Hive training programmes.
 	.
 11.0 Further information and advice
- 	 https://www.hse.gov.uk/coshh/
- 	 https://www.hse.gov.uk/fireandexplosion/dsear.htm
+Â 	 https://www.hse.gov.uk/coshh/
+Â 	 https://www.hse.gov.uk/fireandexplosion/dsear.htm
 	 https://www.britsafe.org/training-and-learning/find-the-right-course-for-you/informational-resources/what-is-coshh/
 	 https://www.legislation.gov.uk/uksi/2002/2677/contents/made
- 	 https://www.hse.gov.uk/chemical-classification/legal/clp-regulation.htm
+Â 	 https://www.hse.gov.uk/chemical-classification/legal/clp-regulation.htm
 	 https://echa.europa.eu/regulations/reach/understanding-reach
- 	 https://www.hse.gov.uk/legislation/hswa.htm
+Â 	 https://www.hse.gov.uk/legislation/hswa.htm
 	 https://www.legislation.gov.uk/uksi/1999/3242/contents/made
- 	 https://www.hse.gov.uk/pubns/guidance/sr24.pdf
+Â 	 https://www.hse.gov.uk/pubns/guidance/sr24.pdf
 	 https://www.netregs.org.uk/environmental-topics/materials-fuels-and-equipment/chemical-    storage/storage-handling-and-delivery-of-chemicals/
 	 https://www.hse.gov.uk/health-surveillance/faqs.htm
  Customer Restrictions in Store Policy
@@ -400,7 +400,7 @@ This policy sets out the commitment of Holland and Barrett Ltd to provide safe a
 > Does not damage the environment i.e., mark the walls.
 > Is not visible from the shop floor. 
 2.2	Where possible colleagues should not bring their bike, scooter etc through the shop entrance during 	store opening hours.  During opening hours please use alternative back of house entrances. 
-2.3	Bikes are left on site at your personal risk – H&B cannot be held responsible for any personal 	possessions including bikes and mobility aids left on site.
+2.3	Bikes are left on site at your personal risk â€“ H&B cannot be held responsible for any personal 	possessions including bikes and mobility aids left on site.
 3. Dogs in Stores
 3.1	Holland & Barrett are unable to allow non-working animals into store. 
 3.2	Dogs (and other animals) pose a potential hygiene and / or allergy risk to customers and 	colleagues. 
@@ -411,7 +411,7 @@ This policy sets out the commitment of Holland and Barrett Ltd to provide safe a
 3.6	Assistance dogs are auxiliary aids and are covered by the Equality Act 2010, and are legally 	protected. Assistance dogs are not pets and are classed as auxiliary aids. It is illegal to discriminate 	against a disabled person, including their aids such as an assistance dog. It is also illegal to harm, 	assault, harass, or otherwise interfere with an assistance dog. 
 3.7	Discrimination
 	If a handler is treated unfavourably due to their disability and their aid (e.g., assistance dog), it is 	classed as discrimination which is illegal. 
-3.8	The best way to not discriminate or harass an assistance dog or the handler is to treat them as you 	would any other disability aid. You would not stare at a prosthetic limb or touch a wheelchair; do 	not do these actions towards an assistance dog or their handler either. 
+3.8	The best way to not discriminate or harass an assistance dog or the handler is to treat them as you 	would any other disability aid. You would not stare at a prosthetic limb or touch a wheelchair; do 	not do these actions towards an assistance dog or their handler either.Â 
 3.9	Recognising a service dog
 	There are many types of service/assistance dogs including guide dogs, police dogs, seizure 	response dogs, diabetes alert dogs, autism assistance dogs, medical response dogs and many 	more. These animals undergo training and will be recognisable by a harness or jacket. 
 3.10	This is not a requirement of the law;, however, some assistance dog handlers will carry an ID book 	giving information about the assistance dog. This again is not a legal requirement. Assistance dog 	users should not be refused a service if they do not possess an ID book. 
@@ -419,7 +419,7 @@ This policy sets out the commitment of Holland and Barrett Ltd to provide safe a
 4.1	Emotional support animals provide comfort to a person with a mental or physical disability and do 	not receive formal training. 
 4.2	As a health and wellness company it is important that we promote positive mental health and give 	customers support when needed. 
 4.3	Although it is not a legal requirement, H&B welcome emotional support animals providing that 	the 	animal remains under the control of the handler at all times via a lead, bag or carry case.
-4.4	Please note that shopping centres and Tesco units may not allow emotional support animals entry 	in line with their own policies. If situated in a Tesco or shopping centre, please check your centre’s 	policy with centre management. 
+4.4	Please note that shopping centres and Tesco units may not allow emotional support animals entry 	in line with their own policies. If situated in a Tesco or shopping centre, please check your centreâ€™s 	policy with centre management.Â 
 5. Cleaning Animal Accidents
 5.1	In the unlikely event that an animal urinates or defecates in the store please exercise caution when 	cleaning. 
 5.2	Accidents must be cleaned promptly and a wet floor/ hazard sign displayed. 
@@ -434,9 +434,9 @@ This policy sets out the commitment of Holland and Barrett Ltd to provide safe a
 > Remove the hazard sign only when the area is dry.
 5.5	Stores can temporarily close to collect cleaning supplies if lone trading. 
 6. Customer Use of Toilets
-6.1 	As a general rule, we do not offer the use of our colleague toilets to the public due to H&S and 	possible public Liability issues.  As the customer would need to be escorted to and from the back-	of-house location, which may not always be practical in all scenarios, such as lone working.  
+6.1 	As a general rule, we do not offer the use of our colleague toilets to the public due to H&S and 	possible public Liability issues.Â  As theÂ customer would need to be escorted to and from the back-	of-house location, which may not always be practical in all scenarios, such as lone working.  
 	To support customers in this instance please make sure all colleagues are aware of where the 	nearest public toilets are located.
-6.2 	There may be exceptions to the above, and a 'common sense' approach should be applied on a 	store-by-store basis.  These exceptions may be, but not exclusively:
+6.2 	There may be exceptions to the above, and a 'common sense' approach should be appliedÂ on a 	store-by-store basis.Â  These exceptions may be, but not exclusively:
 > The customer has produced a Medical Card.
 > The customer has a small child who needs the toilet.
 > The customer is clearly desperate or in distress.
@@ -447,14 +447,14 @@ Date Checking Policy
 1. Statement
 Holland and Barrett Ltd. is committed to developing food safety policies and procedures and, in doing so, has implemented this date checking policy to ensure safe and good quality food is sold within Holland & Barrett stores and we are compliant with Food Safety Regulations.
 This Date checking policy is a tool to ensure that all products with best before dates and use by dates are monitored, checked, reduced, and removed from sale before their expiry date.
-The goal is to minimize and control the risk of products being sold after their expiry date, with exceptions of items that qualify for ‘Too Good to waste’, please follow this link to see the ‘Reduction Bandings’ document.
+The goal is to minimize and control the risk of products being sold after their expiry date, with exceptions of items that qualify for â€˜Too Good to wasteâ€™, please follow this link to see the â€˜Reduction Bandingsâ€™ document.
 Procedures will be reviewed periodically, and any updates must be actioned.
 This policy sets out guidance on company procedures to ensure that safe and good quality food is sold within Holland & Barrett stores.
 2. Purpose
 2.1	The purpose of this policy is to ensure that all products with expiry dates are checked and reduced 	for a quick sale or are disposed of to reduce and eliminate the risk of selling products that have 	expired and are not safe for consumption.
 2.2	To ensure date checking is completed in line with policies and procedures and we are legally 	compliant in line with Food Safety Regulations.
 2.3	To ensure that safe and good quality products are sold from H&B stores.
-2.4	This policy is also intended to increase employee’s awareness and provide relevant information to 	all employees. It sets the legal obligation and measures all employees must take to ensure 	satisfactory date checking process is followed and we are compliant with Food Safety Regulations
+2.4	This policy is also intended to increase employeeâ€™s awareness and provide relevant information to 	all employees. It sets the legal obligation and measures all employees must take to ensure 	satisfactory date checking process is followed and we are compliant with Food Safety Regulations
 3. Objectives
 3.1	The objective of this policy is to establish the minimum requirements for maintaining a satisfactory 	date checking process.
 4. Scope
@@ -473,34 +473,34 @@ UNITED KINGDOM (England, Wales, Scotland Northern Ireland)
 5.9	The Food Hygiene (Northern Ireland) Regulations 2006 
 REPUBLIC OF IRELAND
 5.10	Regulation (EC) 852/2004 on the Hygiene of Foodstuffs
-5.11	EC (Hygiene of Foodstuffs) Regulations 2006 – 2010
+5.11	EC (Hygiene of Foodstuffs) Regulations 2006 â€“ 2010
 5.12	Regulation (EC) 178/2002 on the General Principles and Requirements of Food Law
-5.13	EC (General Food Law) Regulations 2007 – 2012
+5.13	EC (General Food Law) Regulations 2007 â€“ 2012
 5.14	Regulation (EU) No. 1169/2011 on the Provision of Food Information to Consumers
 5.15	Food Safety Authority of Ireland Act 1998 and Associated Regulations
-5.16	Food Hygiene Regulations 1950 – 89
+5.16	Food Hygiene Regulations 1950 â€“ 89
 The law sets out the basic requirements for the levels that are expected within all food businesses from hygiene to temperature control through to ensuring food is correctly labelled, so the consumer is not mislead.
 6. Responsibilities
 6.1 	The Retail Director 
-	• Is responsible for ensuring all activities within the business are managed in accordance with 	regulatory requirements and company policies.
+	â€¢ Is responsible for ensuring all activities within the business are managed in accordance with 	regulatory requirements and company policies.
 6.2 	The Group head of EHS 
-	• Is responsible for ensuring that the Management team implement and monitor this policy and its 	procedures by providing support in ensuring knowledge is maintained through training programmes.
+	â€¢ Is responsible for ensuring that the Management team implement and monitor this policy and its 	procedures by providing support in ensuring knowledge is maintained through training programmes.
 6. Responsibilities (cont.)
 6.3 	Retail Operations Manager 
-	• Is responsible for ensuring that their management team are aware of this policy, the policy 	requirements and that it is always adhered too. 
+	â€¢ Is responsible for ensuring that their management team are aware of this policy, the policy 	requirements and that it is always adhered too. 
 6.4 	Retail Operations 
-	• Are responsible for ensuring that their management team are aware of this policy, the policy 	requirements and that it is always adhered too. 
+	â€¢ Are responsible for ensuring that their management team are aware of this policy, the policy 	requirements and that it is always adhered too. 
 6.5 	EHS Manager is responsible for ensuring that: 
-	• The policy is developed, implemented, communicated, and reviewed when required. 
-	• Monitor and audit compliance in stores to ensure that this policy is followed. 
+	â€¢ The policy is developed, implemented, communicated, and reviewed when required. 
+	â€¢ Monitor and audit compliance in stores to ensure that this policy is followed. 
 6.6 	Store Managers and Operationally Trained colleagues are responsible for ensuring that: 
-	• Date checking is completed every week. Required sections to check are uploaded onto the Hand 	Held Terminal at the beginning of the week. 
-	• All checks are recorded using the Dynamic Date Checker App (DDC) on the Hand Held Terminal 	  (HHT). 
-	• All products past expiry date are removed from sale and disposed of; except for items that qualify for 	‘Too Good to Waste’ which can be sold up to one month after the expiry date. 
+	â€¢ Date checking is completed every week. Required sections to check are uploaded onto the Hand 	Held Terminal at the beginning of the week. 
+	â€¢ All checks are recorded using the Dynamic Date Checker App (DDC) on the Hand Held Terminal 	  (HHT). 
+	â€¢ All products past expiry date are removed from sale and disposed of; except for items that qualify for 	â€˜Too Good to Wasteâ€™ which can be sold up to one month after the expiry date. 
 6.7 	All Colleagues are responsible for ensuring that: 
-	• They co-operate with Holland and Barrett Ltd to ensure compliance with the Food Safety 	Regulations and this policy. 
-	• They ensure all checks are completed with integrity and in line with their training and this policy. 
-	• All products past expiry date are removed from sale and disposed; except for items that qualify 	for ‘Too Good to Waste’ which can be sold up to one month after its expiry date.
+	â€¢ They co-operate with Holland and Barrett Ltd to ensure compliance with the Food Safety 	Regulations and this policy. 
+	â€¢ They ensure all checks are completed with integrity and in line with their training and this policy. 
+	â€¢ All products past expiry date are removed from sale and disposed; except for items that qualify 	for â€˜Too Good to Wasteâ€™ which can be sold up to one month after its expiry date.
 7. Procedures
 7.1 	This policy and procedure must be adhered to all times by all colleagues. 
 7.2 	This policy applies to all products with best before dates and use by dates. 
@@ -508,8 +508,8 @@ The law sets out the basic requirements for the levels that are expected within 
 7.4 	All products with Use by Date must be removed from sale at the end of the trade of the expiry date 	and disposed. 
 7. Procedures (cont.)
 7.5 	Best Before Date, this code is used on food that is non-perishable, like cereals and canned 	products. Best before dates relate to the quality of a product. Should a product exceed its best 	before day its quality may be compromised but it will remain safe to consume or use. This can apply 	to a range of products including dried, canned or frozen goods. 
-7.6 	All products with best before dates are divided into Too Good To Waste and Not Too Good To 	Waste 	categories. To see the full list, please follow this link to the ‘Reduction Bandings’ 	document.
-7.7 	Depending on the product category, the check frequency will be different. To see the full list, 	please follow this link to the ‘Reduction Bandings’ document.
+7.6 	All products with best before dates are divided into Too Good To Waste and Not Too Good To 	Waste 	categories. To see the full list, please follow this link to the â€˜Reduction Bandingsâ€™ 	document.
+7.7 	Depending on the product category, the check frequency will be different. To see the full list, 	please follow this link to the â€˜Reduction Bandingsâ€™ document.
 7.8 	Close to expiry products, expiry dates and quantities are electronically recorded using the Dynamic 	Date Checker App (DDC) on the Hand Held Terminal (HHT). 
 7.9 	As part of the Dynamic Date Checking process all wall bays, gondolas and fridges have a unique 	QR code assigned to each product category. This assigns products to specific bays which allows 	colleagues to track close to expiry products which have been recorded in the DDC App on the HHT. 
 7.10	When completing the Routine Scan all products classified as non-food with an expiry date less than 	12 months of shelf life need to be scanned and then the expiry date and quantities entered. 
@@ -517,39 +517,39 @@ The law sets out the basic requirements for the levels that are expected within 
 7.12 	When completing a Routine Scan using the Dynamic Date Checker, users are prompted to check for 	all close to expiry products in all locations in store: overhead cupboards, undershelf storage, stock 	rooms and promotional locations to ensure that all close to expiry products are accounted for and 	recorded. 
 7.13 	In addition to the Routine Scan close to expiry products can be recorded using the Ad-Hoc Scan. 	This is used for all lines not captured or missed during the Routine Scan. 
 7.14 	Completed Routine Scans must be confirmed as completed in the Applied Principles Health & 	Safety 	App on the HHT under the Weekly Date Checking task. 
-7.15 	Completion of the Weekly Date Checking task can be reviewed using the report ‘Applied Principles 	Dashboard for Company’ published every week by Retail Reporting. Every store should achieve 	100% compliance every week. 
+7.15 	Completion of the Weekly Date Checking task can be reviewed using the report â€˜Applied Principles 	Dashboard for Companyâ€™ published every week by Retail Reporting. Every store should achieve 	100% compliance every week. 
 7. Procedures (cont.)
 7.16	Items recorded as short dated have a got a unique QR code label which needs to be placed on the 	original bar code of the product. The label must not obstruct any important information such as 	allergen information, nutritional information, directions for use, the expiry date or the BBE date. 	Tracked items are sold using this unique QR code and once scanned at the till updates the item 	quantity in the system.
  
 7.17 	Store colleagues must check Further Reductions on the Dynamic Date Checker daily to review items 	that require further reductions in the next two weeks. 
-7.18 	The full list of close to expiry products with expiry dates, quantities and location in store can be 	accessed and reviewed using the link for ‘Destiny Service App’. 
-7.19 	Close to expiry products are to be reduced for a quick sale by a particular percentage depending on 	the expiry date and category of the product as well as the store’s turnover. 
-7.20 	Reduced products are marked with a reduced label, with the message highlighted in red – Reduced 	to Clear Labels are placed at the front of the product stating the price and product name and at the 	back of the product over the original barcode. Reduced labels contain a unique QR code which will 	adjust the quantity of short dated lines recorded during the Routine Scan or Ad-Hoc Scan. 
-7.21	Reduced To Clear lines are kept with the category or placed on the ‘Clearance’ bay or allocated 	space / location depending on store layout. 
-7.22 	Some products with a Best Before Date can be sold up to one month after passing its expiry date 	following the ‘Too Good To Waste’ (TGTW) process. 
-7.23 	To see the full list of reduction bandings and TGTW, please follow this link to the ‘Reduction 	Bandings’ document.
+7.18 	The full list of close to expiry products with expiry dates, quantities and location in store can be 	accessed and reviewed using the link for â€˜Destiny Service Appâ€™. 
+7.19 	Close to expiry products are to be reduced for a quick sale by a particular percentage depending on 	the expiry date and category of the product as well as the storeâ€™s turnover. 
+7.20 	Reduced products are marked with a reduced label, with the message highlighted in red â€“ Reduced 	to Clear Labels are placed at the front of the product stating the price and product name and at the 	back of the product over the original barcode. Reduced labels contain a unique QR code which will 	adjust the quantity of short dated lines recorded during the Routine Scan or Ad-Hoc Scan. 
+7.21	Reduced To Clear lines are kept with the category or placed on the â€˜Clearanceâ€™ bay or allocated 	space / location depending on store layout. 
+7.22 	Some products with a Best Before Date can be sold up to one month after passing its expiry date 	following the â€˜Too Good To Wasteâ€™ (TGTW) process. 
+7.23 	To see the full list of reduction bandings and TGTW, please follow this link to the â€˜Reduction 	Bandingsâ€™ document.
 7.24 	Products with a Use by Date cannot be sold under any circumstances after passing the expiry date. 
 7. Procedures (cont.)
 7.25 	All expired products must be removed from sale immediately after passing the expiry date and 	disposed following the waste disposal procedure. 
-7.26 	This Date Checking Policy also applies to products purchased for colleagues’ consumption. Any 	date expired products purchased by store colleagues must be kept in their personal lockers and not 	kept in a shared location. 
+7.26 	This Date Checking Policy also applies to products purchased for colleaguesâ€™ consumption. Any 	date expired products purchased by store colleagues must be kept in their personal lockers and not 	kept in a shared location. 
 7.27 	This Date Checking Policy applies to chilled products with a Use By Date purchased for colleague 	consumption. The colleague fridge must be checked daily, and all date expired products must be 	removed and disposed of immediately after the expiry date. 
 7.28 	Store Managers are accountable and responsible for correct date rotation and controls in stores. 
 7.29 	Products with shorter dates must be sold first. 
 7.30 	Products arriving with delivery must be checked for short dates. All close to expiry products must be 	recorded using the Ad-Hoc Check in the DDC app on the HHT and either put out for sale or placed 	in storage.
-7.31 	Loss Prevention Team – The execution of date checking will be checked as part of Compliance 	Visits to ensure adherence to Company policy. Ad-hoc checks may also be carried out as part of 	routine Loss Prevention visits or where data has indicated potential non-compliance. 
-7.32 	Retail Team – Regional Managers receive the Date Checking Compliance Report every week 	showing compliance at store level. Regional Managers will check Hand Held terminals during the 	store visits for compliance alongside reporting. 
-7.33 	The Environment, Health and Safety Team check completion of Weekly Date Checking for the past 	13 weeks using the dashboard report ‘Applied Principles Dashboard for Company’ and Principles 	Suites to review compliance for the purpose of EHS Store Compliance Audits. When in store 	sample date checking is completed the EHS Team will ensure that no date expired products are on 	sale. Stores are expected to achieve 100% compliance. Regional Managers are notified as part of 	the EHS Store Compliance Audit if date expired products are found. 
+7.31 	Loss Prevention Team â€“ The execution of date checking will be checked as part of Compliance 	Visits to ensure adherence to Company policy. Ad-hoc checks may also be carried out as part of 	routine Loss Prevention visits or where data has indicated potential non-compliance. 
+7.32 	Retail Team â€“ Regional Managers receive the Date Checking Compliance Report every week 	showing compliance at store level. Regional Managers will check Hand Held terminals during the 	store visits for compliance alongside reporting. 
+7.33 	The Environment, Health and Safety Team check completion of Weekly Date Checking for the past 	13 weeks using the dashboard report â€˜Applied Principles Dashboard for Companyâ€™ and Principles 	Suites to review compliance for the purpose of EHS Store Compliance Audits. When in store 	sample date checking is completed the EHS Team will ensure that no date expired products are on 	sale. Stores are expected to achieve 100% compliance. Regional Managers are notified as part of 	the EHS Store Compliance Audit if date expired products are found. 
 7.34 	New colleagues are trained on date checking during their first 12 weeks as part of the operational 	training level 1 program. 
 7. Procedures (cont.)
 7.25 	All expired products must be removed from sale immediately after passing the expiry date and 	disposed following the waste disposal procedure. 
-7.26 	This Date Checking Policy also applies to products purchased for colleagues’ consumption. Any 	date expired products purchased by store colleagues must be kept in their personal lockers and not 	kept in a shared location. 
+7.26 	This Date Checking Policy also applies to products purchased for colleaguesâ€™ consumption. Any 	date expired products purchased by store colleagues must be kept in their personal lockers and not 	kept in a shared location. 
 7.27 	This Date Checking Policy applies to chilled products with a Use By Date purchased for colleague 	consumption. The colleague fridge must be checked daily, and all date expired products must be 	removed and disposed of immediately after the expiry date. 
 7.28 	Store Managers are accountable and responsible for correct date rotation and controls in stores. 
 7.29 	Products with shorter dates must be sold first. 
 7.30 	Products arriving with delivery must be checked for short dates. All close to expiry products must be 	recorded using the Ad-Hoc Check in the DDC App on the HHT and either put out for sale or placed 	in storage.
-7.31 	Loss Prevention Team – The execution of date checking will be checked as part of Compliance 	Visits to ensure adherence to Company policy. Ad-hoc checks may also be carried out as part of 	routine Loss Prevention visits or where data has indicated potential non-compliance. 
-7.32 	Retail Team – Regional Managers receive the Date Checking Compliance Report every week 	showing compliance at store level. Regional Managers will check Handheld terminals during the 	store visits for compliance alongside reporting. 
-7.33 	The Environment, Health and Safety Team check completion of Weekly Date Checking for the past 	13 weeks using the dashboard report ‘Applied Principles Dashboard for Company’ and Principles 	Suites to review compliance for the purpose of EHS Store Compliance Audits. When in store 	sample date checking is completed the EHS Compliance Officer will ensure that no date expired 	products are on sale. Stores are expected to achieve 100% compliance. Regional Managers are 	notified as part of the EHS Store Compliance Audit if date expired products are found. 
+7.31 	Loss Prevention Team â€“ The execution of date checking will be checked as part of Compliance 	Visits to ensure adherence to Company policy. Ad-hoc checks may also be carried out as part of 	routine Loss Prevention visits or where data has indicated potential non-compliance. 
+7.32 	Retail Team â€“ Regional Managers receive the Date Checking Compliance Report every week 	showing compliance at store level. Regional Managers will check Handheld terminals during the 	store visits for compliance alongside reporting. 
+7.33 	The Environment, Health and Safety Team check completion of Weekly Date Checking for the past 	13 weeks using the dashboard report â€˜Applied Principles Dashboard for Companyâ€™ and Principles 	Suites to review compliance for the purpose of EHS Store Compliance Audits. When in store 	sample date checking is completed the EHS Compliance Officer will ensure that no date expired 	products are on sale. Stores are expected to achieve 100% compliance. Regional Managers are 	notified as part of the EHS Store Compliance Audit if date expired products are found. 
 7.34 	New colleagues are trained on date checking during their first 12 weeks as part of the operational 	training level 1 program. 
 8. Commercial Override Reductions
 8.1	Commercial override reductions MUST only be used to reduce products that have been centrally 	communicated.
@@ -558,20 +558,20 @@ Discount Policy
 1. Discount Overview
 At Holland & Barrett we offer a wide range of fantastic discounts to both our colleagues and our customers. We do this to ensure that everyone gets the most out of shopping with us so they can add quality years to life. These discounts also work in conjunction with some of our great promotional offers, helping health and wellness be more accessible to everyone.
 Major discounts offered:
-• Colleague
-• Student
-• Blue Light Card
-• Click & Collect
-• Vegan/Vegetarian
-• Friends & Family
-• Magazine/Newspaper Coupons
-• Influencer/Event
-• Bounceback
-• Online Overlay
-• New store/Refit
-• Instore Threshold
-• Web & App Exclusive Offers
-Because we offer a wide range of discounts, this policy has been created to ensure they’re used properly and as intended.
+â€¢ Colleague
+â€¢ Student
+â€¢ Blue Light Card
+â€¢ Click & Collect
+â€¢ Vegan/Vegetarian
+â€¢ Friends & Family
+â€¢ Magazine/Newspaper Coupons
+â€¢ Influencer/Event
+â€¢ Bounceback
+â€¢ Online Overlay
+â€¢ New store/Refit
+â€¢ Instore Threshold
+â€¢ Web & App Exclusive Offers
+Because we offer a wide range of discounts, this policy has been created to ensure theyâ€™re used properly and as intended.
 Whilst each discount has its own unique rules, the following apply to ALL discounts:
 1.1	No discount can be used in conjunction with any other discount. If two discounts are presented, 	only the highest discount will be applied.
 1.2	No discount can be used in conjunction with BBE/Short Dated reductions.
@@ -592,14 +592,14 @@ Detailed below are the particulars of the colleague discount policy that you nee
 2.5	Products that are out of date or have split packaging and are no longer in a resaleable condition are 	not allowed to be purchased, consumed or taken off the premises.
 2.6	Products purchased using your colleague discount cannot be resold anywhere, including online 	selling 	platforms, car boot sales etc. If there is a particularly high volume of any one product being 	purchased, this is tracked via our online security systems, whereby, it may be flagged for further 	discussions with you.
 2.7	Throughout the year we may offer exclusive extra discounts for colleagues, particularly around 	Christmas. Please ensure you refer to the full T&Cs associated with each discount event to see any 	restrictions.
-2.8	Colleague discount must not be applied to the £50 colleague allowance.
+2.8	Colleague discount must not be applied to the Â£50 colleague allowance.
 2.9	Only current employees are entitled to this discount. If you leave H&B or are dismissed, you are no 	longer entitled to colleague discount.
 3. Student Discount
 H&B offer student discount in store and online. There are two ways in which a student can claim this when in store: 
 3.1	Customers with a UNiDAYS account are entitled to 10% off qualifying purchases online only.
 3.2	Customers with a valid Student ID card are entitled to 10% off qualifying purchases in store. Before 	applying the discount, the colleague must check that the customer can provide photo ID which 	matches the customers appearance, the expiry date must also be checked to ensure validity. The ID 	card holder must make the purchase.
-3.3	During key periods, we may flex up the UNiDAYS discount for online purchases only. These will be 	considered “limited time only” discounts.
-3.4	Offers cannot be used in conjunction with any other discount codes and applies to qualifying 	products only. The offer excludes At-Home Testing Kits.
+3.3	During key periods, we may flex up the UNiDAYS discount for online purchases only. These will be 	considered â€œlimited time onlyâ€ discounts.
+3.4	Offers cannot be used in conjunction with any other discount codes and applies to qualifying 	products only.Â The offer excludes At-Home Testing Kits.
 3.5	We reserve the right to withdraw the offer without prior notice.  Exclusions may change and all 	purchases are subject to availability.
 4. Blue Light Card Discount
 NHS workers and Blue light card holders can receive a 5% discount by showing the Blue Light phone application or by carrying a blue light card or other Emergency Services ID card e.g., Armed Forces ID, Ambulance, Fire Service etc.
@@ -615,7 +615,7 @@ Upon a customer collecting a Click & Collect order in store, the customer may be
 5.3	The 10% discount must be applied using the Click & Collect discount barcode scanned at the till.
 5.4	Using the Click & Collect discount barcode with customers who are not collecting a Click & 	Collect order on the same day as an instore purchase may lead to investigation and disciplinary 	action to be taken.
 6. Vegetarian/Vegan Society Discount
-The 'Vegetarian Society’ and the 'Vegan Society’ are groups that encourage people to eat a plant-based diet and offer support and ways to be sustainable. People who have signed up to join the ‘Vegetarian Society’ or ‘Vegan Society’ will receive a card that will entitle them to 10% off in our stores. If a customer enquires after one of these cards, please refer them to either the ‘Vegetarian Society’ website or the ‘Vegan Society’ website.
+The 'Vegetarian Societyâ€™ and the 'Vegan Societyâ€™ are groups that encourage people to eat a plant-based diet and offer support and ways to be sustainable. People who have signed up to join the â€˜Vegetarian Societyâ€™ or â€˜Vegan Societyâ€™ will receive a card that will entitle them to 10% off in our stores. If a customer enquires after one of these cards, please refer them to either the â€˜Vegetarian Societyâ€™ website or the â€˜Vegan Societyâ€™ website.
 6.1	If a customer presents either of these cards at the checkout the colleague must ensure validity by 	checking that the customer can provide photo ID which matches the customers appearance, the 	expiry date must also be checked to ensure validity. 
 6.2	Alternatively, the customer can confirm identity by showing a bank card with the same name as 	detailed on their membership card. 
 6.3	Only the membership holder can use the discount with their purchase.
@@ -650,14 +650,14 @@ Bouncebacks are offers that we issue to customers on the back of a them making a
 10.4	This discount is for single use only. You must not use the provided code on more than one 	transaction. The bounce back coupon code must be defaced by a colleague to prevent multiple 	use.
 10.5	Customers must spend a threshold amount to redeem this discount. This threshold depends on the 	number of points being used or the percentage discount (depending on the offer).
 11. Online Overlays
-As an omni-channel retailer it is important that we always offer our customers a seamless experience, it is important to recognise though that different customer profiles shop online compared to in-store. This means we will run promotions, such as an online overlay. We will always offer these deals in store if a customer asks about them, but you should not advertise these in-store unless specifically requested to by the communication team. 
+As an omni-channel retailer it is important that we always offer our customers a seamless experience, it is important to recognise though that different customer profiles shop online compared to in-store. This means we will run promotions, such as an online overlay. We will always offer these deals in store if a customer asks about them, but you should not advertise these in-store unless specifically requested to by the communication team.Â 
 11.1	To transact these through the till you MUST use the trigger bar code provided to the customer, 	either on the website or via email.
 11.2	The trigger barcode MUST be displayed on the customers device only and the customer must be 	the one to request this discount when making a purchase in store.
 11.3	The offer must still be valid and the criteria for accepting the discount must be met, such as a 	threshold spend, for the discount to be applied to the transaction.
 11.4	If the voucher isn't scanning then you must transact the discount using 'non scan coupon' to honour 	the deal but then must follow up by logging the scanning issue to retail assist. The non-scanned 	coupon process must be followed:[LINK TO NON-SCANNED COUPON PROCESS TO BE ADDED]
 11.5	Monitoring of non-scan coupons is completed by our internal audit team and any suspicion of 	fraudulent activity will be investigated and will be treated in accordance with our Disciplinary Policy.
 11.6	If you offer this discount without a prompt from the customer first or centrally communicated, this 	could lead to investigation and disciplinary action to be taken.
-On our website or app (digital) we may state a special offer such as 15% off if you shop today – this is online only, not in store.
+On our website or app (digital) we may state a special offer such as 15% off if you shop today â€“ this is online only, not in store.
 12. New/Refit Store Coupons and Discounts
 12.1	The store colleague must check the store name on the leaflet matches the store the discount is 	being claimed in, before accepting the discount. If the store name does not match, unless 	centrally communicated, the discount must be refused.
 12.2	The store colleague must check the coupon is within the valid date range window displayed on the 	leaflet. If the coupon is not within the valid date range period, the discount must be refused.
@@ -674,7 +674,7 @@ At Holland & Barrett, we offer exclusive offers and discounts for our web and ap
 14.1	You should always prioritise encouraging the customer to first consider the offer in store
 	(as it will often be a multibuy), suggesting complementary/additional products they
 	could purchase on the offer.
-14.2	AS A LAST RESORT ONLY, you can honour the online digital deals only if a customer explicitly 	calls out the differing online offer. Process through the till by using a Price Override with the reason 	code, ‘Incorrect Scan’.
+14.2	AS A LAST RESORT ONLY, you can honour the online digital deals only if a customer explicitly 	calls out the differing online offer. Process through the till by using a Price Override with the reason 	code, â€˜Incorrect Scanâ€™.
 14.3 	Any products reduced this way will be removed from any in-store multibuys.
 14.4	You should never introduce the customers to the differing online offer so that you can
 	process it as another deal in store, the customer always needs to be the one requesting it.
@@ -730,132 +730,132 @@ Food Safety Policy
 4.10	The Food Hygiene (Northern Ireland) Regulations 2006 
 	REPUBLIC OF IRELAND
 4.11	Regulation (EC) 852/2004 on the Hygiene of Foodstuffs
-4.12	EC (Hygiene of Foodstuffs) Regulations 2006 – 2010
+4.12	EC (Hygiene of Foodstuffs) Regulations 2006 â€“ 2010
 4.13	Regulation (EC) 178/2002 on the General Principles and Requirements of Food Law
-4.14	EC (General Food Law) Regulations 2007 – 2012
+4.14	EC (General Food Law) Regulations 2007 â€“ 2012
 4.15	Regulation (EU) No. 1169/2011 on the Provision of Food Information to Consumers
 4.16	Food Safety Authority of Ireland Act 1998 and Associated Regulations
-4.17	Food Hygiene Regulations 1950 – 89
+4.17	Food Hygiene Regulations 1950 â€“ 89
 5. 	Food Safety Training
 5.1	All store colleagues are given basic food safety information during the company induction. This 	information covers: 
-• Temperature control and monitoring 
-• Pest control 
-• Hygiene and cleaning 
-• ‘Use By’ and ‘Best Before’ dates 
+â€¢ Temperature control and monitoring 
+â€¢ Pest control 
+â€¢ Hygiene and cleaning 
+â€¢ â€˜Use Byâ€™ and â€˜Best Beforeâ€™ dates 
 5.2	All new colleagues are trained on basic food safety during their first 12 weeks as part of operational 	training level 1. This training is completed on the hive our digital training platform. In addition to the 	training on the hive, this manual provides information about food safety which colleagues can refer to.
 6. 	Hazard Analysis
 6.1	Hazard analysis is a process used to identify potential points of failure or risk in your food safety 	management system, and to help you identify and develop suitable controls to reduce and manage 	those risks. 
 6.2	We do this by looking at each stage the food goes through, identify any problems that could occur (the 	hazards), stop the problems from happening (the controls) and check the controls we have in place 	(monitoring). The hazards could be:
 	
-• Chemical (cleaning products, pesticides).
-• Microbiological (mould, bacteria).
-• Physical (hairs, wood, string).
+â€¢ Chemical (cleaning products, pesticides).
+â€¢ Microbiological (mould, bacteria).
+â€¢ Physical (hairs, wood, string).
 6.3	Controls work to stop the hazards from occurring. Please see appendix 1 for example.
-6.4 	So, as you can see, the control here is storing the chilled product in the chiller. We carry out controls in 	our everyday work, but often don’t realise we are doing them. Other controls include checking packaging 	of the stock on your deliveries, ensuring temperatures of chillers are correct and rotating stock. We 	monitor these controls by taking temperatures, visual checks and we keep records of them.
+6.4 	So, as you can see, the control here is storing the chilled product in the chiller. We carry out controls in 	our everyday work, but often donâ€™t realise we are doing them. Other controls include checking packaging 	of the stock on your deliveries, ensuring temperatures of chillers are correct and rotating stock. We 	monitor these controls by taking temperatures, visual checks and we keep records of them.
 6.5 	Appendix 2 demonstrates the steps the food follows once it has arrived at the store.
 6.6	At each stage we must stop the hazards from occurring by following the controls and monitoring 	procedures.
 7. Temperature Control Statement
 7.1	This policy has been put in place to: 
-• Ensure monitoring of fresh food temperatures takes place to ensure safe food. 
-• Ensure that appropriate corrective actions have been put in place when required. 
-• Ensure all stores comply with legal requirements for monitoring food temperatures. 
-• Ensure that checking of temperatures of chilled deliveries takes place. 
-• Ensuring that temperature thermometers and probes are used correctly and calibrated as required, to ensure accuracy of temperature monitoring and records. 
-• 8. 	Temperature Control Principles
-• 8.1	The legal maximum storage temperature for chilled fresh food is +8°c but we aim to store chilled food at 	+5°c or below, so we do not exceed legal requirements and to meet suppliers’ storage recommendations. 	There is no legal requirement to chill canned drinks this is purely for quality and customer experience. 
-• 8.2	Some chilled foods have a 'use by' or 'best before' date and shows recommended refrigerator storage 	conditions on the label. Chilled food must be kept at the correct temperature to ensure chilled food is 	safe to consume. 
-• 8.3	Chilled food must not be sold after the ‘use by date’ or if above +8°c , refer to the corporate 'too good to 	waste' and 'date checking' policy for guidance on chilled 'best before date' products. 
-• 8.4	It is important the correct way to check the temperatures of your chillers is followed to ensure we are 	adhering to legal requirements regarding the temperature of our chillers and the selling of chilled food. 
-• 8.5	Temperature checks are to be completed 15 minutes before opening and no later than 9am and again at 	around 1pm. On a Sunday one check 15 minutes before opening and one halfway through trade is 	expected.
-• 8.6	Temperature checks must be recorded in Applied Principles Health & Safety App under Daily Pre-	Opening Checks and Daily Temperature Checks. You must record the temperature and take a photo of 	the chiller thermometer or digital thermometer and scan the corresponding chiller QR Code for 	compliance record keeping when recording the temperature in the Applied Principles Health & Safety 	App. 
-• 8.7	The Store Manager is accountable for ensuring that the store team is fully trained and competent on 	temperature control procedures. 
-• 8.8	It is the responsibility of the whole store team to ensure temperature checking for all fresh food chillers 	within the store is done twice daily. 
-• 8.9	Environmental Health Officers (EHO) can request to view your temperature submissions during their 	store visits. You will need to be able to confidently talk the EHO through the Temperature Control 	Policy. Historic temperature control submissions can be requested from EHS Admin and emailed 	directly to the EHO. 
+â€¢ Ensure monitoring of fresh food temperatures takes place to ensure safe food. 
+â€¢ Ensure that appropriate corrective actions have been put in place when required. 
+â€¢ Ensure all stores comply with legal requirements for monitoring food temperatures. 
+â€¢ Ensure that checking of temperatures of chilled deliveries takes place. 
+â€¢ Ensuring that temperature thermometers and probes are used correctly and calibrated as required, to ensure accuracy of temperature monitoring and records. 
+â€¢ 8. 	Temperature Control Principles
+â€¢ 8.1	The legal maximum storage temperature for chilled fresh food is +8Â°c but we aim to store chilled food at 	+5Â°c or below, so we do not exceed legal requirements and to meet suppliersâ€™ storage recommendations. 	There is no legal requirement to chill canned drinks this is purely for quality and customer experience. 
+â€¢ 8.2	Some chilled foods have a 'use by' or 'best before' date and shows recommended refrigerator storage 	conditions on the label. Chilled food must be kept at the correct temperature to ensure chilled food is 	safe to consume. 
+â€¢ 8.3	Chilled food must not be sold after the â€˜use by dateâ€™ or if above +8Â°c , refer to the corporate 'too good to 	waste' and 'date checking' policy for guidance on chilled 'best before date' products. 
+â€¢ 8.4	It is important the correct way to check the temperatures of your chillers is followed to ensure we are 	adhering to legal requirements regarding the temperature of our chillers and the selling of chilled food. 
+â€¢ 8.5	Temperature checks are to be completed 15 minutes before opening and no later than 9am and again at 	around 1pm. On a Sunday one check 15 minutes before opening and one halfway through trade is 	expected.
+â€¢ 8.6	Temperature checks must be recorded in Applied Principles Health & Safety App under Daily Pre-	Opening Checks and Daily Temperature Checks. You must record the temperature and take a photo of 	the chiller thermometer or digital thermometer and scan the corresponding chiller QR Code for 	compliance record keeping when recording the temperature in the Applied Principles Health & Safety 	App. 
+â€¢ 8.7	The Store Manager is accountable for ensuring that the store team is fully trained and competent on 	temperature control procedures. 
+â€¢ 8.8	It is the responsibility of the whole store team to ensure temperature checking for all fresh food chillers 	within the store is done twice daily. 
+â€¢ 8.9	Environmental Health Officers (EHO) can request to view your temperature submissions during their 	store visits. You will need to be able to confidently talk the EHO through the Temperature Control 	Policy. Historic temperature control submissions can be requested from EHS Admin and emailed 	directly to the EHO. 
 11. 	Using Your Temperature Probe
 11.1	To ensure you are monitoring your temperatures correctly please follow the guidance below. 
-11.2	Dos and Don’ts of using Temperature Probes are listed below: 
+11.2	Dos and Donâ€™ts of using Temperature Probes are listed below: 
 	Do 
-• Take off the protective blue covering from the penetration probe before using it. 
-• Pierce the product in the centre whilst on a flat surface. 
-• Keep your fingers at a safe distance away from the probe during use. 
-• Make sure your probe is calibrated monthly. 
-• Clean your probe after use with a sanitised wipe or sanitiser spray and a cloth. 
-• Insert the air temperature probe in between packs or into the product and leave for the temperature reading to stabilise. 
-• Ensure all team members know where your probes are kept. 
-• Call EHS Admin Department for assistance or queries with the process or equipment on 02476215500.
-	Don’t 
-• Pierce the product with the penetration probe whilst holding it as you could stab your hands. 
-• Place fingers in the way of the spike. 
-• Allow the temperature probes (air or penetration) to touch the metal chiller shelfs as this may affect your temperature readings. 
-• Leave your digital probe sat in the chiller all day, it should be put back in its blue storage box when not in use, as leaving it sat in the chiller throughout the day may damage your probe and compromise your readings.
+â€¢ Take off the protective blue covering from the penetration probe before using it. 
+â€¢ Pierce the product in the centre whilst on a flat surface. 
+â€¢ Keep your fingers at a safe distance away from the probe during use. 
+â€¢ Make sure your probe is calibrated monthly. 
+â€¢ Clean your probe after use with a sanitised wipe or sanitiser spray and a cloth. 
+â€¢ Insert the air temperature probe in between packs or into the product and leave for the temperature reading to stabilise. 
+â€¢ Ensure all team members know where your probes are kept. 
+â€¢ Call EHS Admin Department for assistance or queries with the process or equipment on 02476215500.
+	Donâ€™t 
+â€¢ Pierce the product with the penetration probe whilst holding it as you could stab your hands. 
+â€¢ Place fingers in the way of the spike. 
+â€¢ Allow the temperature probes (air or penetration) to touch the metal chiller shelfs as this may affect your temperature readings. 
+â€¢ Leave your digital probe sat in the chiller all day, it should be put back in its blue storage box when not in use, as leaving it sat in the chiller throughout the day may damage your probe and compromise your readings.
 12. 	Finding the Best Place to Take the Temperature
 12.1	Leave the chiller thermometers to the back of the middle shelf and use the middle shelf to take any air 	or product readings with your digital probe. Please view appendix 5 for more detail.
 13. 	Storage & Display
 13.1	Storing products correctly will make sure that they last their shelf life. Correct storage is when food is 	kept in the right conditions, at the correct temperatures and for the appropriate time period, this helps 	to: 
-	• Avoid spoilage. 
-	• Prevent waste. 
-	• Preserve the foods taste, appearance and nutritional value. 
-	• Keep within the law. 
+	â€¢ Avoid spoilage. 
+	â€¢ Prevent waste. 
+	â€¢ Preserve the foods taste, appearance and nutritional value. 
+	â€¢ Keep within the law. 
 	General rules for safe storage:
-	• Handle all stock with care. 
-	• Store all products in the appropriate storage areas, following any storage instructions on the label. 
-	• Protect food from contamination. 
-	• Store food off the floor. 
-	• Stack shelves carefully without overloading; leave enough space around the boxes for air to circulate. 
-	• Keep the storage areas clean and dry. 
-	• Clean up spills immediately. 
-	• Report any signs of pests to EHS Department as soon as they are noticed. 
-	• Ensure any stock that has been recalled / damaged/ passed its date/ spoilt is kept separate from the 	   other stock. Follow the chilled food waste procedures. 
-	• All cleaning chemicals should be stored separately. Please make sure that the above rules are followed 	   at all times. Report all problems found immediately to EHS Department.
+	â€¢ Handle all stock with care. 
+	â€¢ Store all products in the appropriate storage areas, following any storage instructions on the label. 
+	â€¢ Protect food from contamination. 
+	â€¢ Store food off the floor. 
+	â€¢ Stack shelves carefully without overloading; leave enough space around the boxes for air to circulate. 
+	â€¢ Keep the storage areas clean and dry. 
+	â€¢ Clean up spills immediately. 
+	â€¢ Report any signs of pests to EHS Department as soon as they are noticed. 
+	â€¢ Ensure any stock that has been recalled / damaged/ passed its date/ spoilt is kept separate from the 	   other stock. Follow the chilled food waste procedures. 
+	â€¢ All cleaning chemicals should be stored separately. Please make sure that the above rules are followed 	   at all times. Report all problems found immediately to EHS Department.
 14. Durability Dates
 	
-14.1	Dates are used on packaging to indicate the period when the food is safe and is in the best condition. 	Date marks include ‘use by’ dates for highly perishable foods and ‘best before’ dates for less perishable 	items. 
+14.1	Dates are used on packaging to indicate the period when the food is safe and is in the best condition. 	Date marks include â€˜use byâ€™ dates for highly perishable foods and â€˜best beforeâ€™ dates for less perishable 	items. 
 14.2	Use by: This code is used on food that goes off quickly such as chilled products; these products are 	intended for consumption within a specified period of time. After this date the food may be unfit to eat. 
 14.3	It is an offence to sell food after its use by date. All food must be removed from sale before their use by 	date expires. If a product is labelled as USE BY 14 JAN, then it must be sold and consumed before, or 	on the 14 Jan. 
 14.4	Best Before: This type of coding is used on food that is non-perishable like cereals and canned 	products. The Best before dates relate to the quality of a product. Should a product exceed its best 	before day its quality may be compromised but it will remain safe to consume or use. This can apply to a 	range of products including dried, canned, or frozen goods. 
-14.5	It’s not a food hygiene offence to sell food beyond its best before date, please refer to the 'too good to 	waste' policy for further guidance on what and how we sell products beyond their Best Before Date. The 	business has made the decision to not sell chilled best before products beyond their Best Before Date.
+14.5	Itâ€™s not a food hygiene offence to sell food beyond its best before date, please refer to the 'too good to 	waste' policy for further guidance on what and how we sell products beyond their Best Before Date. The 	business has made the decision to not sell chilled best before products beyond their Best Before Date.
 	
 15. Cleaning
 15.1	Our aim is to achieve the highest standards of cleanliness and food hygiene. 
 15.2	This is particularly important to Holland & Barrett as we are health food retailer and sell many products 	that are free from preservatives and additives. Hence, our products may be more vulnerable to 	infestation, have shorter shelf lives and maybe more prone to mould or bacterial growth. 
 15.3	Our aim is to reduce these risks to a minimum, by paying particular attention to cleanliness and food 	hygiene.
 15.4	The aim of cleaning is to make the area free from dirt and contamination. Cleaning is intended to keep 	food and workplaces safe. In particular, cleaning aims to: 
-• Protect food from contamination. 
-• Reduce the opportunities for bacterial growth, by removing food debris. 
-• Avoid attracting pests. 
-• Maintain a safe environment, for example to stop someone from slipping on a greasy floor. 
-• Create a good impression for customers. 
-• Carry out our legal and moral obligations. 
+â€¢ Protect food from contamination. 
+â€¢ Reduce the opportunities for bacterial growth, by removing food debris. 
+â€¢ Avoid attracting pests. 
+â€¢ Maintain a safe environment, for example to stop someone from slipping on a greasy floor. 
+â€¢ Create a good impression for customers. 
+â€¢ Carry out our legal and moral obligations. 
 15.5	Routine cleaning and good housekeeping are the most important factors in maintaining a satisfactory 	standard of hygiene. You must follow the cleaning schedule to ensure all areas of the store are kept 	clean. 
 16. 	Cleaning Materials
 	
 16.1	Remember the following:
-• Never mix chemicals. 
-• Only use the chemicals as listed on the approved cleaning list in the Health and Safety Manual. 
-• Store all cleaning chemicals and materials away from food. 
-• Store all cleaning chemicals and materials in one place. 
-• Keep the amount of cleaning chemicals to a minimum. 
-• Keep all cleaning equipment such as cloths, mops, buckets and dusters clean. 
-• Do not purchase any chemicals except for the ones on your ordering system.
+â€¢ Never mix chemicals. 
+â€¢ Only use the chemicals as listed on the approved cleaning list in the Health and Safety Manual. 
+â€¢ Store all cleaning chemicals and materials away from food. 
+â€¢ Store all cleaning chemicals and materials in one place. 
+â€¢ Keep the amount of cleaning chemicals to a minimum. 
+â€¢ Keep all cleaning equipment such as cloths, mops, buckets and dusters clean. 
+â€¢ Do not purchase any chemicals except for the ones on your ordering system.
 16.2	You must check in your Health and Safety Manual for guidance on the correct chemicals to use for 	cleaning (COSHH Risk Assessment). 
 16.3	Stores can order their cleaning consumables through Bates Office Suppliers. All cleaning consumables 	ordered are delivered directly to stores.
 17. Personal Hygiene (cont.)
 17.7	Washing Hands Correctly
 	Simply rinsing the tips of fingertips under cold water does not count. 
 	Here are some reminders: 
-• Always use warm water. It's better to wet hands before applying soap as this prevents irritation. 
-• Rub hands together vigorously for at least 20 seconds, making sure both sides of the hands are 	   washed thoroughly, around the thumbs, between each finger and around and under the nails. 
-• Then, rinse with clean warm water. 
-• Germs spread more easily if hands are wet, so dry them thoroughly. Use a clean dry towel, 	   paper towel or air dryer; it doesn't matter which. 
+â€¢ Always use warm water. It's better to wet hands before applying soap as this prevents irritation. 
+â€¢ Rub hands together vigorously for at least 20 seconds, making sure both sides of the hands are 	   washed thoroughly, around the thumbs, between each finger and around and under the nails. 
+â€¢ Then, rinse with clean warm water. 
+â€¢ Germs spread more easily if hands are wet, so dry them thoroughly. Use a clean dry towel, 	   paper towel or air dryer; it doesn't matter which. 
 17.8	Checklist for Good Hygiene Practice:
-• Wash and dry your hands thoroughly after going to the toilet. 
-• Do not handle open food if you are suffering from diarrhoea and / or sickness. 
-• Tell your manager if you have infected cuts or sores. 
-• Use waterproof plasters for cuts and grazes. 
-• Tell your manager if you or anyone in your household is ill with sickness or diarrhoea. 
-• Tell your manager if you have returned from a holiday abroad with sickness and diarrhoea or suffered whilst you were away. 
-• If you visit the doctor, tell him that you work in a food business. 
-• If in doubt, please contact Technical Department or People Services for further specific advice.
+â€¢ Wash and dry your hands thoroughly after going to the toilet. 
+â€¢ Do not handle open food if you are suffering from diarrhoea and / or sickness. 
+â€¢ Tell your manager if you have infected cuts or sores. 
+â€¢ Use waterproof plasters for cuts and grazes. 
+â€¢ Tell your manager if you or anyone in your household is ill with sickness or diarrhoea. 
+â€¢ Tell your manager if you have returned from a holiday abroad with sickness and diarrhoea or suffered whilst you were away. 
+â€¢ If you visit the doctor, tell him that you work in a food business. 
+â€¢ If in doubt, please contact Technical Department or People Services for further specific advice.
 18.	Smoking
 18.1	Smoking is not allowed inside any of the stores. If any team members do smoke and use outside areas of 	the store for smoking, they should always dispose of their cigarette butts in a suitable container that is 	emptied regularly. 
 18.2	E-cigarettes are also not allowed to be used inside any of our stores. These can only be smoked / vaped 	in designated areas. This applies to both, staff and customers. 
@@ -864,16 +864,16 @@ Food Safety Policy
 19. Illness & Food Handlers
 19.1	As a food business we have to take all steps to ensure that everyone at the store does not handle food if 	they are sick. 
 19.2	Report to your manager if you are suffering, or are suspected to be suffering, from food poisoning or a 	food borne illness. Symptoms that may indicate food poisoning or a food borne illness are: 
-	• Diarrhoea 
-	• Vomiting 
-	• Fever 
-	• Stomach cramps and pain
+	â€¢ Diarrhoea 
+	â€¢ Vomiting 
+	â€¢ Fever 
+	â€¢ Stomach cramps and pain
 19.3	As a food business we have to take all steps to ensure that everyone at the store does not handle food if 	they are sick. 
 19.4	Report to your manager if you are suffering, or are suspected to be suffering, from food poisoning or a 	food borne illness. Symptoms that may indicate food poisoning or a food borne illness are: 
-	• Diarrhoea 
-	• Vomiting 
-	• Fever 
-	• Stomach cramps and pain
+	â€¢ Diarrhoea 
+	â€¢ Vomiting 
+	â€¢ Fever 
+	â€¢ Stomach cramps and pain
 19.5	If you are off work for food poisoning, then you will be required to go to your doctors. 
 19.6	If the doctor confirms you are ill with food poisoning, you will generally be required to be off work until 	you are 48 hours symptom-free. After this period, you will still need to be extra vigilant with your 	personal hygiene. 
 19.7	If you suffer from more serious forms of food poisoning, you may well need to provide your doctor with 	stool samples and have two to three negative stool samples prior to returning to work. 
@@ -882,66 +882,66 @@ Food Safety Policy
 20.1	We sell a number of raw, unprocessed foods and therefore we have to be extra vigilant of infestation 	from stored product insects, mites and rodents. 
 20.2	We have very strict controls with our suppliers and at our packing plant. We regularly audit suppliers and 	ensure that the products we sell are of the highest quality. We also operate a Pest Control Contract.
 20.3	Infestations of moths, beetles and mites can originate in the products and lie dormant for several weeks 	before coming active. Hence it is extremely important that:
-• All staff know how to look for signs of infestation 
-• Correct stock rotation is followed. 
-• Good hygiene standards are maintained at all times.
+â€¢ All staff know how to look for signs of infestation 
+â€¢ Correct stock rotation is followed. 
+â€¢ Good hygiene standards are maintained at all times.
 21. Rodents
 21.1	Rats and mice can cause us big problems. However, each year we spend a great deal of money on 	preventative action. 
 21.2	We operate a national pest control contract. 
 	The current contract covers:
-• Rats 
-• Mice 
-• Cockroaches 
-• Garden Ants 
-• Silver fish 
-• Fly Breeding Sites 
-• Stored Product Insects, i.e. Indian Meal Moth 
+â€¢ Rats 
+â€¢ Mice 
+â€¢ Cockroaches 
+â€¢ Garden Ants 
+â€¢ Silver fish 
+â€¢ Fly Breeding Sites 
+â€¢ Stored Product Insects, i.e. Indian Meal Moth 
 21.3	You may also be given advice on Pigeon Proofing. 
 21.4	All store reports are stored electronically on the on-line system called Pest Alert. All stores, EHS 	Department, Regional Managers and Divisional Directors have access to this system to review any 	reports as required. 
-21.5	Pest Technician will always complete a report following their visit. It is Store’s responsibility to de-brief 	Technician following each visit, read the electronic version of the report to ensure all detail is correct and 	sign the report. It is Store’s responsibility to complete all actions identified and requested by Technician.
+21.5	Pest Technician will always complete a report following their visit. It is Storeâ€™s responsibility to de-brief 	Technician following each visit, read the electronic version of the report to ensure all detail is correct and 	sign the report. It is Storeâ€™s responsibility to complete all actions identified and requested by Technician.
 21.6	The frequency of visits made by the contactor to your store will depend on the risk level your store has 	been given. We operate a targeted approach to pest control. 
  
 	
 21. Rodents (cont.)
 21.7	Please be aware that we are required by Environmental Health to produce any pest contractor visit 	reports on request. Should a request be made by an Inspecting EHO please show them the reports 	directly on the Pest Alert Portal. If you require any assistance on the day, please call EHS Department 	directly on Tel No: 02476 215 500. 
 21.8	Following a visit by the Technician you must:
-• Read what has been written on the report they have left 
-• Action points that the pest contractor have raised that you can solve as soon as possible 
-• Telephone EHS Department immediately and report the works that are required that you cannot solve. 
-• If the pest contractor reports any pest activity at your store this must be reported to EHS Department immediately. 
+â€¢ Read what has been written on the report they have left 
+â€¢ Action points that the pest contractor have raised that you can solve as soon as possible 
+â€¢ Telephone EHS Department immediately and report the works that are required that you cannot solve. 
+â€¢ If the pest contractor reports any pest activity at your store this must be reported to EHS Department immediately. 
 21.9	All contact with the pest contractor is made through EHS Department. Please do not contact the 	contractor directly. 
 21.10	If you require the pest contractor to visit your store, please telephone EHS Department on Tel No: 	02476 215 500 and they will be able to take all the details and organise a Call Out for you. 
 21.11	Evidence of a problem 
 	The main signs of activity are: 
-• Dead bodies 
-• Droppings 
-• Unusual smells 
-• Gnawing marks 
-• Torn or damaged packets or boxes 
-• Hairs 
-• Smears or runs If you want to learn more your Pest Control Technician will advise you. 
+â€¢ Dead bodies 
+â€¢ Droppings 
+â€¢ Unusual smells 
+â€¢ Gnawing marks 
+â€¢ Torn or damaged packets or boxes 
+â€¢ Hairs 
+â€¢ Smears or runs If you want to learn more your Pest Control Technician will advise you. 
 21.12	Preventing Problems 
 	We can prevent the risk of a mouse or rat causing a problem at our store by: 
-• Reporting any proofing issues to EHS Department. 
-• Reporting any issues raised by the pest control contractor to EHS Department. 
-• Keeping your store clean and tidy. 
-• Cleaning up any spillages. 
-• Cleaning behind your kick plates on the shop floor regularly, as dust and debris can be used by rodents to build nests. 
-• Emptying bins daily, don’t forget the staff room bins. 
-• Ensuring all staff know the signs of rodent activity. 
-• Storing all food off the floor. • Keeping back area tidy outside the store. 
+â€¢ Reporting any proofing issues to EHS Department. 
+â€¢ Reporting any issues raised by the pest control contractor to EHS Department. 
+â€¢ Keeping your store clean and tidy. 
+â€¢ Cleaning up any spillages. 
+â€¢ Cleaning behind your kick plates on the shop floor regularly, as dust and debris can be used by rodents to build nests. 
+â€¢ Emptying bins daily, donâ€™t forget the staff room bins. 
+â€¢ Ensuring all staff know the signs of rodent activity. 
+â€¢ Storing all food off the floor. â€¢ Keeping back area tidy outside the store. 
 21.13	Please see the full Pest Prevention and Control Policy for further details or contact the EHS 	Department at the Store Support Centre on 02476 215 500 for further help and advice. 
 	
 22. Store Infestation Checks
 22.1	Before products are put out for sale they should be visually checked. All checks should be recorded in 	your 'Daily Pest Control Checks' in Applied Principles. 
 22.2	At least one full section per day should be checked and recorded in Applied Principles. If you find a 	problem, you should notify the EHS Department immediately and seek advice, but if a food product is 	affected also:
-• Remove the affected and suspect stock from sale. 
-• Clean shelves and check surrounding stock for infestation. 
-• Seal well in double bags. 
+â€¢ Remove the affected and suspect stock from sale. 
+â€¢ Clean shelves and check surrounding stock for infestation. 
+â€¢ Seal well in double bags. 
 22.3	If an infestation at your store is found, e.g., insects or moths are found flying or crawling, a call out to our 	pest control contractors will be made via EHS Department. 
 22.4	If there is a problem at your store, seek advice from EHS Department.
 22.5	Infestation checks should be done daily. This is flexible and can be done as you are filling and rotating 	stock. Nuts, cereals and flours are very susceptible to infestation and need to be checked regularly. 	These checks should be recorded in your daily Pest check on applied principles, even if no infestation has 	been found.
-22.6	 Daily cleaning of the areas indicated should be signed off once they have been completed. Don’t forget 	to clean the storeroom and Colleague areas. 
+22.6	 Daily cleaning of the areas indicated should be signed off once they have been completed. Donâ€™t forget 	to clean the storeroom and Colleague areas. 
 22.7	All stores must report any pest control issues to EHS Department as soon as they have been identified.
 22.8	Store Managers must report any pest control issues to EHS Department even if the pest control 	company highlights these issues. EHS Department need to be informed if you find evidence of rats, 	mice, ants or moths in your store. 
 22.9	During weekends and out of hours, major pest control activity issues i.e. a mouse sighted on the shop 	floor, a dead mouse found on the shop floor or in the stockroom etc. must be reported to the Regional 	Manager (RM) who will then follow Emergency Out of Hours procedure. 
@@ -971,8 +971,8 @@ Food Safety Policy
 	
 25. Best Practise For Effective Pest Store Visits
 25.1	The frequency of your pest contractor visits will depend on two things:
-• If you have activity 
-• Your risk rating If you have activity pest contractor will be attending a minimum of twice a week. 
+â€¢ If you have activity 
+â€¢ Your risk rating If you have activity pest contractor will be attending a minimum of twice a week. 
 25.2	When the pest contractor attends, please follow the steps below: 
 > Get the Technician to sign in (follow the Signing in Policy). If you are not getting visitors to sign in this is a breach of security and company procedure. 
 > Provide feedback to the Technician, in relation to any found stock damage, where the stock damage was found and any sightings. 
@@ -987,7 +987,7 @@ Food Safety Policy
 > Any damaged stock or droppings must be removed prior to the store opening. 
 > Report new stock damage/dropping in new areas and sightings directly to EHS Department immediately on 02476 215 500. 
 > Report no attendance from pest contractor immediately on the above number. 
-> Feedback any concerns in relation to the Service provided by the Technician to EHS Department Team as soon as possible after the Technician’s visit. Concerns can be raised either directly on 
+> Feedback any concerns in relation to the Service provided by the Technician to EHS Department Team as soon as possible after the Technicianâ€™s visit. Concerns can be raised either directly on 
      02476 215 500 or via your Regional Manager. 
 25.5	Any visit from the local Environmental Health Officer could potentially lead to the store being served an 	Improvement Notice or a Prohibition Notice, store closure and prosecution if the above checks are not 	being completed in rodent active stores. 
 25.6	If you require any further help or advice, then please contact EHS Department on 02476 215 500.
@@ -998,7 +998,7 @@ Food Safety Policy
 > Spray anti-bacterial surface cleaner on the shelves.
 > Wipe surface with a suitable cloth.
 	*Please note that the above can be carried out in conjunction with you daily date code and infestation 	checks
-26.2	Underneath the kick plates and base shelves – shop floor and stock room 
+26.2	Underneath the kick plates and base shelves â€“ shop floor and stock room 
 > Remove kick plates or if you have fixed kick plates then the stock on the base shelves will require removing in order to remove the base shelves (this refers to the shop floor only).
 > Hoover/sweep to remove any dust debris. 
 	*Base shelves in the stock room should be six inches from the floor is sufficient space to allow a hoover 	nozzle or a sweeping brush. 
@@ -1020,16 +1020,16 @@ Food Safety Policy
 	
 26. What Is Expected When Cleaning (cont.)
 26.7	Staff Room 
-> Any cutlery/ dishware used should be washed using the washing up liquid and hot water – this should be done as and when they are used. 
+> Any cutlery/ dishware used should be washed using the washing up liquid and hot water â€“ this should be done as and when they are used. 
 > Spray anti-bacterial cleaner to all surfaces and wipe down with a suitable cloth. 
 > Remove all items from the cupboard under the sink
 > Spray anti-bacterial surface cleaner and wipe with a suitable cloth. 
 	*The above needs to be carried out in-line with your 13-week cleaning scheduled and ensure that the 	cleaning scheduled is completed within the daily diary.
 27. Enforcement Bodies
 27.1	Environmental Health Officers and Trading Standards Officers may visit your store from time to time. 	They may visit to:
-• Carry out an inspection to make sure your store complies with the current legislation. 
-• Take samples from your store for analysis. 
-• Investigate complaints. 
+â€¢ Carry out an inspection to make sure your store complies with the current legislation. 
+â€¢ Take samples from your store for analysis. 
+â€¢ Investigate complaints. 
 27.2	When a visit is made:
 > Be as helpful as possible. 
 > Ask for identification. 
@@ -1047,14 +1047,14 @@ Food Safety Policy
 	
 27. Enforcement Bodies (cont.)
 27.4	Typically, the EHO may want to look at: 
-• Housekeeping standards 
-• Your Applied Principles records (obtain from EHS Department) 
-• Temperature submission on applied Principles (obtain from EHS department) 
-• Request information about any pest control issues within the store 
-• Request Pest Control report – please show any reports requested directly from the Pest Alert Portal 
-• Asbestos Surveys 
-• Stock rotation – they will carry out checks for an out-of-date stock 
-• Storage of stock items on the floor
+â€¢ Housekeeping standards 
+â€¢ Your Applied Principles records (obtain from EHS Department) 
+â€¢ Temperature submission on applied Principles (obtain from EHS department) 
+â€¢ Request information about any pest control issues within the store 
+â€¢ Request Pest Control report â€“ please show any reports requested directly from the Pest Alert Portal 
+â€¢ Asbestos Surveys 
+â€¢ Stock rotation â€“ they will carry out checks for an out-of-date stock 
+â€¢ Storage of stock items on the floor
 27.5	Environmental Health Officers 
 	An EHO may visit your store to ensure compliance with food safety laws and hygiene. They may visit 	your store at any point when you are open. They may ask to see this manual or any records such as your 	Applied Principles checks, temperature records and cleaning schedule during the visit.
 27.6	Trading Standards 
@@ -1062,7 +1062,7 @@ Food Safety Policy
 27.7	Sampling Visits 
 	The samples that are taken by Trading Standards Officers or Environmental Health Officers are to 	ensure the products comply with the law. 
 	This is the normal procedure, and the following steps are to guide you through what to do when Trading 	Standards or Environmental Health Officers visit your store:
-> Ensure all visitors’ sign in using the visitor signing in sheet. All sections must be completed clearly. Please check you can read the details given. 
+> Ensure all visitorsâ€™ sign in using the visitor signing in sheet. All sections must be completed clearly. Please check you can read the details given. 
 > Accompany the visitor around your store. 
 > Answer any questions and provide SSC details to the visitor and ask for them to contact us directly with a report of what has been taken and for what purpose. If you are unsure of any response to give, please contact EHS Department. 
 > Usually, three samples of a product are taken, and one will be left at the store. If they do not leave a sample in the store, please collect a sample of the same product with the same batch code and expiry date. 
@@ -1077,17 +1077,17 @@ Food Safety Policy
 27.10	ALL VISITS, INCLUDING FIRE OFFICER, EHO OFFICER, TRADING STANDARDS OFFICER, LANDLORD, CENTRE MANAGEMENT, etc. MUST BE REPORTED TO THE EHS DEPARTMENT ON ECO-ONLINE WITHIN 24HRS.
 28. Contractors
 28.1	Contractors will need to visit your store from time to time. Contractors may be sent by: 
-• EHS Department i.e., Pest Control Contractor. 
-• Facilities Services i.e., to repair a broken-down chiller or freezer or Fire Alarm/appliances Services. 
-• Property Department i.e., if your shop is being refit, or repairs are needed. 
+â€¢ EHS Department i.e., Pest Control Contractor. 
+â€¢ Facilities Services i.e., to repair a broken-down chiller or freezer or Fire Alarm/appliances Services. 
+â€¢ Property Department i.e., if your shop is being refit, or repairs are needed. 
 28.2	All contractors must show you their identification and sign in using the Store Daily Diary. 
 28.3	If at any point you are unsure whether you should allow the contractors into your store telephone 	Facilities and speak to the relevant department to ensure the contractors are authorised to enter your 	store.
 	
 29. Customer Queries & Complaints
 29.1	If you have a food safety or quality problem with a product that a customer has highlighted and the 	customer requires a letter or contact from Holland and Barrett, then please contact Customer Services.
 30. Product Withdrawals
-30.1	All product recalls will be communicated to Stores on the Hub. Product recalls need to be done as soon 	as stores receive a recall task. Keeping stock on shelves that has been recalled could be breaking the law, 	so it’s important to act quickly on product recalls. 
-30.2	A product withdrawal or recall can be initiated for many different reasons, but it’s usually due to food 	safety concerns, labelling problems or quality issues with a product. 
+30.1	All product recalls will be communicated to Stores on the Hub. Product recalls need to be done as soon 	as stores receive a recall task. Keeping stock on shelves that has been recalled could be breaking the law, 	so itâ€™s important to act quickly on product recalls. 
+30.2	A product withdrawal or recall can be initiated for many different reasons, but itâ€™s usually due to food 	safety concerns, labelling problems or quality issues with a product. 
 30.3	When you receive a product recall, here are a few steps to guide you through the correct recall 	procedure:
 > All stores will receive a memo via the Hub informing them a product withdrawal (recall) is needed.
 > Team members should check all stock immediately on the shop floor and stockroom / back of house area against the instructions on the memo.
@@ -1095,10 +1095,10 @@ Food Safety Policy
 > Follow the instructions on what should be done with the recalled product e.g. destroy on site or return to the depot. This information will be stated on the memo. You should ensure the stock is not held at the store.
 > Products returned to the depot need to be packaged and labelled correctly, in order to prevent damage to the product and ensure that they reach the correct destination. They should be placed in sensible sized, weighted containers for manual handling. Putting the product in mail bags / shop counter bags is unacceptable.
 > The product withdraw notice contains the form that needs to be attached to the outside of the box when returning products to the depot.
-> All stores need to complete the task on the Hub, to show that you have completed the withdrawal (recall) and whether you have the product in stock or have ‘nil’ stock.
-> All stock should be put into ‘Product Recall Out’ on the SIM, otherwise the order office will be unable to credit.
-> If products are to be returned to the Depot, only put into ‘Product Recall out” once the product has been returned and not before.
-> Ensure stock is returned to the depot and put into ‘Product recall out’ promptly, as there is a deadline for claims which will be stated on the withdrawal (recall) paperwork. After the deadline no return means no credit.
+> All stores need to complete the task on the Hub, to show that you have completed the withdrawal (recall) and whether you have the product in stock or have â€˜nilâ€™ stock.
+> All stock should be put into â€˜Product Recall Outâ€™ on the SIM, otherwise the order office will be unable to credit.
+> If products are to be returned to the Depot, only put into â€˜Product Recall outâ€ once the product has been returned and not before.
+> Ensure stock is returned to the depot and put into â€˜Product recall outâ€™ promptly, as there is a deadline for claims which will be stated on the withdrawal (recall) paperwork. After the deadline no return means no credit.
 	If you have any queries about making a claim, please contact the Order Office
 H&B Retail Email Account Policy
 1. Statement
@@ -1113,7 +1113,7 @@ It is important to be respectful to all colleagues and to always remain professi
 2.6	No sensitive information should be sent as the emails can be seen by all colleagues. 
 2.7	Colleagues should not send any personal emails e.g., to family and friends 
 2.8	For any issues regarding outlook call tech support 0330 055 7284.
- 
+Â 
 3. Personal H&B Accounts
 3.1	All colleagues will be provided with an email address for the purpose of logging in to various 	account. This email address is to be used to log into several applications including SIM, BIP, and 	HHT inventory applications. 
 3.2	The email account will need to be set up for all new starters.
@@ -1124,9 +1124,9 @@ It is important to be respectful to all colleagues and to always remain professi
 4.2	Access will be granted in some circumstances to enable email use on personal devices. Colleagues 	who may be granted access include Managers in Action (MIA) representatives, Trade feedback 	representatives and those where a request is made from a Regional Manager (RM) for a regional 	support need.
 4.3	These accounts are only to be used in relation to the roles and additional duties outlined above. 
 5. Use of Personal Devices
-5.1	Limited non-business use may be permitted if usage doesn’t: 
+5.1	Limited non-business use may be permitted if usage doesnâ€™t: 
 > Interfere with your responsibilities or performance.
-> Interfere with anyone else’s role, their responsibilities, or their performance. 
+> Interfere with anyone elseâ€™s role, their responsibilities, or their performance. 
 > Have undue impact on the operation of our systems. 
 > Violate the provision of the relevant policy, Code of Conduct or any company policies, guidelines, or standards.
 6. Use of Company Computers, Phones, and Internet    	Connections
@@ -1135,14 +1135,14 @@ It is important to be respectful to all colleagues and to always remain professi
 6.3	Where use is permitted (for business purposes or limited non-business use) we reserve the right to 	monitor, access and review your usage in line with the Data Protection Policy. This is for legal, 	regulatory, and other legitimate business purposes, and includes monitoring your internet use, 	reviewing emails you send and receive, testing network systems, reviewing files stored on our 	systems and monitoring and recording calls.
 
 7. Internet and Wi-Fi Usage
-7.1	Our corporate internet connection is primarily for business use, but you can occasionally use our 	connection for personal purposes, such as browsing the web, if its usage doesn’t interfere with 	your duties. 
-7.2	We expect you to stop personal activities that slow down our internet connection if you’re asked 	to. 
+7.1	Our corporate internet connection is primarily for business use, but you can occasionally use our 	connection for personal purposes, such as browsing the web, if its usage doesnâ€™t interfere with 	your duties. 
+7.2	We expect you to stop personal activities that slow down our internet connection if youâ€™re asked 	to. 
 7.3	You should never download or upload inappropriate, illegal, or obscene material (including online 	gambling or betting sites) using company equipment and/or using corporate internet connection.
- 
+Â 
 Petty Cash & Expenses Policy
 1. Statement
-Store colleagues may need to pay for business related expenses such as travel, Christmas functions, or general expenses, on an ad hoc basis, and in such instances may use the till pay-outs process. 
-All expenses must be claimed in accordance with this policy. Please ensure you fully understand what can & cannot be claimed via expenses. If you are travelling for business or incurring expenses and are not entirely sure which expenses are reimbursable, contact your Manager to clarify beforehand. You’ll need to keep receipts for all reimbursable expenses. Claims without a receipt will be rejected. Any attempt to claim expenses fraudulently or in breach of this policy may result in disciplinary action in accordance with our Disciplinary Policy.
+Store colleagues may need to pay for business related expenses such as travel, Christmas functions, or general expenses, on an ad hoc basis, and in such instances may use the till pay-outs process.Â 
+All expenses must be claimed in accordance with this policy. Please ensure you fully understand what can & cannot be claimed via expenses. If you are travelling for business or incurring expenses and are not entirely sure which expenses are reimbursable, contact your Manager to clarify beforehand. Youâ€™ll need to keep receipts for all reimbursable expenses. Claims without a receipt will be rejected. Any attempt to claim expenses fraudulently or in breach of this policy may result in disciplinary action in accordance with our Disciplinary Policy.
 2. Petty Cash
 2.1	Store colleagues may need to use petty cash to pay for general expenses for the store.
 2.2	All purchases made through petty cash must be compliant with the list of what can be claimed. Any 	requirements outside of this must be approved by your RM via email prior to making a purchase.
@@ -1150,39 +1150,39 @@ All expenses must be claimed in accordance with this policy. Please ensure you f
 2.4	The store manager is accountable for their petty cash budget
 2.5	Failure to follow this policy or related processes may be dealt with in accordance with the 	companies Disciplinary Policy.
 3. Petty Cash - What You Can Claim
-3.1	Key cutting – once you have received your security letter from facilities this can be taken 	along with the keys to be cut.
-3.2	SSC incentives that have been authorised by SSC via a Hub task – when an incentive is 	communicated to you it will include full details.
-3.3	Seasonal claims – this is for seasonal claims such as Christmas allowance. Full details for 	this will be communicated out prior to any claims being made.
+3.1	Key cutting â€“ once you have received your security letter from facilities this can be taken 	along with the keys to be cut.
+3.2	SSC incentives that have been authorised by SSC via a Hub task â€“ when an incentive is 	communicated to you it will include full details.
+3.3	Seasonal claims â€“ this is for seasonal claims such as Christmas allowance. Full details for 	this will be communicated out prior to any claims being made.
 3.4	Fresh dairy milk.
-3.5	Postage – there may be circumstance where stores need to use postage. Where possible 	this should be 2nd class. Only high value items or confidential post may be sent by recorded 	delivery. Any documents that need to be sent back to SSC i.e., right to work, colleague sick 	notes etc should be done so by the store scanner.
+3.5	Postage â€“ there may be circumstance where stores need to use postage. Where possible 	this should be 2nd class. Only high value items or confidential post may be sent by recorded 	delivery. Any documents that need to be sent back to SSC i.e., right to work, colleague sick 	notes etc should be done so by the store scanner.
 4. Petty Cash - What You Cannot Claim
-4.1	This list  includes examples and is not exhaustive. If you are unsure, then please speak to your RM.
-4.2	Consumables – these are available through SIM/Bates.
+4.1	This listÂ  includesÂ examples and is not exhaustive. If you are unsure, then please speak to your RM.
+4.2	Consumables â€“ these are available through SIM/Bates.
 4.3	Dairy free alternative milk and UHT milk can be ordered through Bates.
-4.4	Tea, coffee or sugar – can now be ordered through Bates with free delivery.
-4.5	Wage advances/Bonus payments – any pay queries must go through the payroll team via the 	Payroll Query Form on Hub.
-4.6	Incentives that haven’t been confirmed by SSC via a Hub task.
-4.7	Electrical items – keyboard & computer mouse are now on Bates.
+4.4	Tea, coffee or sugar â€“ can now be ordered through Bates with free delivery.
+4.5	Wage advances/Bonus payments â€“ any pay queries must go through the payroll team via the 	Payroll Query Form on Hub.
+4.6	Incentives that havenâ€™t been confirmed by SSC via a Hub task.
+4.7	Electrical items â€“ keyboard & computer mouse are now on Bates.
 4.8	Personal items, decorative items.
-4.9	Fines incurred while working or traveling to a store e.g., parking fines and speeding tickets – these 	must be paid by the individual .
+4.9	Fines incurred while working or traveling to a store e.g., parking fines and speeding tickets â€“ these 	must be paid by the individualÂ .
 4.10	Lunch payments. No claims for lunch provided to colleagues at meetings or covering stores will be 	authorised.
 4.11	Window cleaning (except ROI where there is currently no contractor) - If you do need additional 	cleaning then please contact the Facilities Helpdesk via HALO.
 4.12	Travel Expenses or expenses of anyone who does not work in a store i.e., head office colleagues or 	your RM.
 5. Travel Expenses
 5.1 	Expense claims are used for when colleagues need to travel for business related requirements 	outside of their home store i.e., covering in another store. 
-5.2	Authorisation must be gained in advance from your RM if there is a requirement for a colleague to 	travel and incur an expense. All expenses should be accounted for by using the correct reason 	code. 
+5.2	Authorisation must be gained in advance from your RM if there is a requirement for a colleague to 	travel and incur an expense. All expenses should be accounted for by using the correct reason 	code.Â 
 5.3	Details of expense claims must be included when completing a claim via the Hub. Claims can only 	be made following the event where a cost was incurred, and a receipt must be produced as proof. 
-5.4	Prior to any money being taken out of the till an expense claim must be completed, the receipt 	uploaded, and authorisation gained via the Hub. Claims cannot be submitted prior to an event. 
+5.4	Prior to any money being taken out of the till an expense claim must be completed,Â the receipt 	uploaded, and authorisation gained via the Hub. Claims cannot be submitted prior to an event.Â 
 5.5	When making a claim for fuel expenses you must provide a fuel receipt which includes a VAT 	summary. Without this we are unable to claim tax back. This does not have to be a receipt for the 	same day of when the travel occurred. A fuel receipt within one month is reasonable. Claims 	without a receipt will be rejected.
 6. Travel Expenses - What You Can Claim
-6.1	This list  includes examples and is not exhaustive. If you are unsure, then please speak to your RM.
+6.1	This listÂ  includesÂ examples and is not exhaustive. If you are unsure, then please speak to your RM.
 > Mileage for travel in own vehicle
-> Car parking  
+> Car parking Â 
 > Bus/Tram fare 
 > Train/Tube fare
 > Ferry cost
 > Taxi cost 
-7. Travel Expenses – What you Cannot Claim
+7. Travel Expenses â€“ What you Cannot Claim
 7.1 	Travel costs which amount to the same or lower cost than attending work at your home store. You 	can only claim travel costs between your base store and your covering store (see example below 	for clarity).
 7.2	Example below: 
 > Your home store is Royston
@@ -1191,7 +1191,7 @@ All expenses must be claimed in accordance with this policy. Please ensure you f
 > Hemel Hempstead store is 30 miles from your house 
 > Distance to covering store minus distance to home store = claim distance
 > Your claim would be for 20 miles (40 miles total including return journey)
-7.3	Please note you cannot claim expenses for working in your home store on any day even if required 	to work on your day off. 
+7.3	Please note you cannot claim expenses for working in your home store on any day even if required 	to work on your day off.Â 
 7.4	Parking or speeding fines incurred.
 8. Mileage Claims
 8.1 	Rate paid:
@@ -1210,14 +1210,14 @@ All expenses must be claimed in accordance with this policy. Please ensure you f
 9.5	It is the managers responsibility to be aware of and stay within the budgets allocated to the store. 	These budgets are individual to stores and can be found on your BTR or via your RM. For more 	information on how to read your BTR please click here. Speak to your RM if you have any questions 	related your BTR or budgets.
 10. All Colleague Responsibilities
 10.1	Stores must never purchase items through petty cash that could cause injury to a customer or 	colleague or damage to the building. Instances will be investigated as breach of Petty cash 	procedure & EHS policy/procedure.
-10.2	Stores must not purchase goods elsewhere if those goods are available on bates. Delivery & 	account charges are included in the per-product fee. Ordering via bates reduces time spent 	shopping for goods and processing claims.  
+10.2	Stores must not purchase goods elsewhere if those goods are available on bates. Delivery & 	account charges are included in the per-product fee. Ordering via bates reduces time spent 	shopping for goods and processing claims.Â Â 
 10.3	Provide a receipt for all expense claims made.
-10.4	Minimise expense claims by only traveling when necessary. Consider if there is a more economical 	way to travel e.g., car sharing or using public transport. This will also help reduce our carbon 	footprint. 
-10.5	When traveling outside of your home store you are required to provide the below information when 	completing the claim: 
-> Travel by bus/tram/train/ferry – cost of fare and location to cross charge
-> Travel in own vehicle – number of miles/km travelled, and location to cross charge
-> Parking – cost of parking and location to cross charge
-> Travel by taxi (must be pre-approved by RM’s) – cost and location to cross charge 
+10.4	Minimise expense claims by only traveling when necessary. Consider if there is a more economical 	way to travel e.g., car sharing or using public transport. This will also help reduce our carbon 	footprint.Â 
+10.5	When traveling outside of your home store you are required to provide the below information when 	completing the claim:Â 
+> Travel by bus/tram/train/ferry â€“ cost of fare and location to cross charge
+> Travel in own vehicle â€“ number of miles/km travelled, and location to cross charge
+> Parking â€“ cost of parking and location to cross charge
+> Travel by taxi (must be pre-approved by RMâ€™s) â€“ cost and location to cross chargeÂ 
 10.6	For public transport claims, go to the relevant operator site to download receipts where payment is 	contactless.
 10.7	Pay as you go, and top up receipts WILL NOT be accepted. Download the actual cost of the 	journey from the operator's website for the claim.
 10.8	Screenshots for public travel will not be accepted unless it shows the actual journey, cost & date.
@@ -1226,13 +1226,13 @@ Terms and conditions apply to all price override reason codes. The use of all co
 All reductions are tracked and actioned through Destiny therefore, the use of the price override codes should be minimal. The use of these reason codes should be used in instances where the till will not scan the destiny QR code on the reduction label or where the reduction label is missing or damaged. Scanning any Destiny QR code through the till, will automatically adjust the price of the product.
 2. Price Override Reason Codes
 2.1	Price override code options are as follows:
-• Incorrect Shelf Edge Label (SEL)
-• Incorrect Price Scan
-• Close to Expiry (Ambient)
-• Close to Expiry (Chilled)
-• Damaged but Saleable
-• Outlet Stores
-2.2	A comment must be entered within the available ‘Notes’ section when manually reducing an item 	e.g., “adjusted price to honor incorrect SEL and SEL has been replaced.”
+â€¢ Incorrect Shelf Edge Label (SEL)
+â€¢ Incorrect Price Scan
+â€¢ Close to Expiry (Ambient)
+â€¢ Close to Expiry (Chilled)
+â€¢ Damaged but Saleable
+â€¢ Outlet Stores
+2.2	A comment must be entered within the available â€˜Notesâ€™ section when manually reducing an item 	e.g., â€œadjusted price to honor incorrect SEL and SEL has been replaced.â€
 3. Incorrect Shelf Edge Label (SEL) 
 3.1	The Incorrect Shelf Edge Label reason code should be used when the Shelf Edge Label 	(SEL) 	displayed is incorrectly priced for the product. If the SEL price is less than what is displayed on the 	till, we must honor the lower price for the customer. 
 3.2	It is the responsibility of all colleagues to ensure that daily price changes are printed and 	actioned daily to prevent the use of this reason code. Where an incorrect SEL is identified, it 	must be replaced as soon as possible with a correctly priced SEL.
@@ -1251,7 +1251,7 @@ All reductions are tracked and actioned through Destiny therefore, the use of th
 8. Outlet Stores
 8.1	This reason code is specifically for the use of our Outlet Stores. This reason code enables our Outlet 	Stores to price match our non-outlet stores if the current promotion is superior to the Outlet offer. 
 1. Statement
-Our brand and image are important to us, and while you are working for us, we want you to  represent H&B to our Customers and the public with pride as your appearance contributes to our reputation and the success of the business.  Part of this is our teams being dressed in the correct uniform. How you wear our uniform is important because while you are wearing it you are representing the company and the brand. To support this, please ensure you adhere to the below policy.
+Our brand and image are important to us, and while you are working for us, we want you to  represent H&B to our Customers and the public with pride as yourÂ appearance contributes to our reputation and the success of the business.Â  Part of this is our teams being dressed in the correct uniform. How you wear our uniform is important because while you are wearing it you are representing the company and the brand. To support this, please ensure you adhere to the below policy.
 2. Principles
 2.1	Tops, aprons, tunics and badges will be supplied to all colleagues. 
 2.2	Colleagues are expected to provide their own trousers or skirts and suitable footwear. 
@@ -1259,8 +1259,8 @@ Our brand and image are important to us, and while you are working for us, we wa
 2.4	Suitable footwear should also be worn, this includes closed in, low heeled shoes. High heels should not be
 	worn in stores. Further detail on footwear can be found within this policy or by clicking here.  
 2.5	We also ask that the use of makeup, perfumes, and fragrance sprays are not excessive whilst on company 	premises. 
-2.6	Wearing appropriate religious and cultural dress (including clerical collars, head scarves, skullcaps, 	turbans and religious piercings) is allowed provided it doesn’t create a health and safety risk to you or 	anyone else.
-2.7	Store Managers and Assistant Managers have the choice to wear the colleague uniform, beauty 	specialist tunics or business dress, depending on what types of task they are carrying out each day.
+2.6	Wearing appropriate religious and cultural dress (including clerical collars, head scarves, skullcaps, 	turbans and religious piercings) is allowed provided it doesnâ€™t create a health and safety risk to you or 	anyone else.
+2.7	Store Managers and Assistant Managers have the choice to wear the colleague uniform, beauty 	specialist tunicsÂ or business dress, depending on what types of task they are carrying out each day.
 2.8	Failure to adhere to the principles laid out in this policy may result in disciplinary action.
 2.9	While we appreciate and respect the diverse nature of all our colleagues and their views, no political or 	national flags should be displayed on uniforms, with the exception of name badges where the national flag 	denotes your spoken language(s).
 3. Supplied clothing
@@ -1268,7 +1268,7 @@ Our brand and image are important to us, and while you are working for us, we wa
 3.2 	In addition to the base allocation, all colleagues can order 1 tunic. 
 3.3	A fleece can be ordered for colleague use as an additional warm layer. 
 3.4	It is your responsibility to launder your own uniform. 
-3.5	For any new or additional uniform orders head to the ‘LINKS’ section on the Hub or click here. 
+3.5	For any new or additional uniform orders head to the â€˜LINKSâ€™ section on the Hub or click here. 
 3. Supplied clothing cont.
 3.6	If a colleague requires additional uniform for medical reasons, or to support with a physical  symptom that 	consistently impacts them at work (e.g., menopause), please contact the Regional  Manager for your 	region. Where required additional uniform can be arranged via your regions superuser account with RM 	approval.
 3.7	When ordering any uniform, ensure the garment type is appropriate for the colleague's role in store, as 	shown in the table below.
@@ -1278,12 +1278,12 @@ Our brand and image are important to us, and while you are working for us, we wa
 			
 4.1	In addition to the supplied uniform, 	colleagues are to provide the following 	clothing.
 4.2	Appropriate smart, plain, dark-coloured 	trousers or skirt.
-4.3	Appropriate smart, plain, dark-coloured footwear such as closed toe shoes or trainers with no visible 	logos 	or detailing. 
+4.3	Appropriate smart, plain, dark-coloured footwear such as closed toe shoes or trainers withÂ no visible 	logos 	or detailing. 
 4.4	All colleagues, including Managers can wear dark trainers providing they fit the criteria stated. All 	footwear must also comply with the following safety requirements:
 	4.4a	Footwear must fully cover toes
 	4.4b	Flat sole or small heel
 	4.4c	Footwear must be properly fitted and be comfortable.
-	4.4d	If footwear is worn / damaged – tread worn on sole or sole damaged or detached, 			they must not be worn for work
+	4.4d	If footwear is worn / damaged â€“ tread worn on sole or sole damaged or detached, 			they must not be worn for work
 	4.4e	Sole must be nonslip
 	4.4f	Where fitted, laces must be tied 
 	4.4g	Footwear must be appropriate for the tasks undertaken in both our shop floors and rear 			areas including staircases.
@@ -1303,16 +1303,16 @@ Our brand and image are important to us, and while you are working for us, we wa
 6.1	New Starter uniform can be ordered via the Murray Uniform Portal. New Starters should appear on 	your 	portal once they have been added to MyHR. Delivery may take 5 days for badges and 2 days for      	uniform to arrive in store.
 6.2	It can occasionally take up to 7 days for a new starter to appear on our supplier ordering system (Murray 	Uniforms) where all future orders must be placed. If the colleague is required to work prior to the arrival 	of their uniform instruct them to wear a plain black short or long-sleeved t-shirt. 
 6.3	A personalised badge must be ordered for all new colleagues as soon as possible. You do not need to 	wait 	for a new starter to appear on our supplier ordering system (Murray Badge Portal). We 	recommended 	ordering a badge on or before the new starters first shift.  Badges will arrive in 5 - 7 days after ordering.
-6.4	All new starters should wear the generic ‘New Trainee’ Badge while awaiting the arrival of their 	personalised H&B badge. 
+6.4	All new starters should wear the generic â€˜New Traineeâ€™ Badge while awaiting the arrival of their 	personalised H&B badge. 
 6.5	Please retain this badge instore to be used by all new starters.                                                                                 	Should the badge need replacing it can be ordered via Hub ordering.
-6.6	When the colleagues personalised badge arrives, it should replace the                                                              	lime green trainee badge. Please use the 'I’m Learning' sticker to cover the                                                 	'Qualified to advise' logo. This sticker can then be removed once the new                                                       	colleague has completed their QTA+ training.
+6.6	When the colleagues personalised badge arrives, it should replace the                                                              	lime green trainee badge. Please use the 'Iâ€™m Learning' sticker to cover the                                                 	'Qualified to advise' logo. This sticker can then be removed once the new                                                       	colleague has completed their QTA+ training.
 
 7. The Halo Code
-Holland & Barrett are proud to have signed up to the Halo Code in December 2023. This pledge highlights our commitment to our black colleagues who wear their hair in their natural state such as afro’s, locs, braids or weaves, wigs, wear hair wraps and reiterating they are welcome to come to work as themselves. We support the movement to break the often-societal stereotype of these styles being perceived as ‘unprofessional’.
+Holland & Barrett are proud to have signed up to the Halo Code in December 2023. This pledge highlights our commitment to our black colleagues who wear their hair in their natural state such as afroâ€™s, locs, braids or weaves, wigs, wear hair wraps and reiterating they are welcome to come to work as themselves. We support the movement to break the often-societal stereotype of these styles being perceived as â€˜unprofessionalâ€™.
 What this pledge means:
 > 	Our organisation will display a copy of the Halo Code publicly and proudly in 	our building and/or on our website.
 > 	Our organisation will announce our adoption of the Halo Code to staff, in 	person or by email.
-> 	Our organisation name will be displayed on the Halo Collective website so 	that others can see we’ve adopted the Halo Code.
+> 	Our organisation name will be displayed on the Halo Collective website so 	that others can see weâ€™ve adopted the Halo Code.
 > 	Our organisation will embed the Halo Code within any existing dress code 	policy and include it in future staff handbooks.
 > 	Our workplace will signpost staff to the additional resources on the Halo 	Collective website.
 > 	If disputes around hairstyles arise, our organisation will refer to the Halo 	Code 	for guidance.
@@ -1325,7 +1325,7 @@ Retention & Confidential Waste Policy
 1. Statement
 GDPR practices must be followed when handling confidential data and waste at H&B. Not following GDPR practices leads to major consequences for any mishandling of confidential data, and it can also put our customers and company at risk.
 2. Principles
-2.1	Confidential waste is anything which contains any personal details of customers, colleagues 	&  anyone else. Including any commercially sensitive information such as sales figures and 	announcements which have not yet been made public.
+2.1	Confidential waste is anything which contains any personal details of customers, colleagues 	&Â  anyone else. IncludingÂ any commercially sensitive information such as sales figures and 	announcements which have not yet been made public.
 2.2	All confidential details should only be kept for as long as you reasonably need to refer to them and 	stored as detailed in this policy.
 2.3 	Following the retention period, any confidential waste should be shredded. Where this is not 	possible i.e., there is too much to shred, or the shredder is broken please put into a sealed tote 	clearly marked 'confidential waste' and send back to Burton to be destroyed on your next 	delivery.
 2.4	Any colleagues found to be in breach of this policy, may be liable for prosecution and dismissal in 	lines with our disciplinary policy.
@@ -1337,35 +1337,73 @@ GDPR practices must be followed when handling confidential data and waste at H&B
 3.3	You may already have folders in your store that can be re-used. If not, folders and dividers can be 	ordered via bates using product codes: DV1416 and KF01332.
 3. Filing systems (Cont)
 3.4	Spine labels, front covers and contents pages are available to easily identify each folder and its 	contents. should you need to replace any they can be found by following the below links:
-• Connections & Welfare Folder
-• Operational Folder 
+â€¢ Connections & Welfare Folder
+â€¢ Operational Folder 
 4. Office Filing system
 4.1	Having a specific folder for different functions will help keep the right information to hand in the 	right place for quick reference. 
-4.2	The below list details all sections that should be a part of the ‘Operational Folder’ of the filing 	system in the office. There are contents pages for each, which will show you what needs to be kept 	and filed in that folder and the relevant retention period:
-• CCTV Log
-• Period Exceptions 
-• Product Withdrawals
-        DocumentRetention TimeContractor Signing in Form12 YearsCCTV Log Sheet12 MonthsSample Tracker3 Years Special Diets infographic and
-Additional Allergen Information Signed by all current colleaguesDuplicate bank deposit slips6 MonthsCollection/change delivery receipts6 Months
-Duplicate bank deposit slips should remain in the banking book and be stored in the safe. Staple the cash collection/change delivery receipt to the relevant duplicate deposit slip.ADHOC documents you find useful (pay dates, BTR, Crib sheet, weekly wrap up etc)No legal obligation to retainStocktake info, Adjustments, low/neg report, Shrink ReportPrevious and Current PeriodAll evidence/supporting documentation relating to any investigation Inc. adjustment report, discount and price override report, refund reportPrevious and Current PeriodPrinted and signed copies of the exception reportsPrevious and Current Period        DocumentRetention TimeP1 incident processCurrent VersionTeam Talks, Bag ChecksPrevious and Current PeriodWho to contact sheet No legal obligation to retainRegional contact sheetNo legal obligation to retainFire Emergency PlanCurrent VersionAsbestos Survey ReportMost recent version. 
-Once the paperwork has been renewed with the latest copy the previous copy can be destroyed. There is no need to retain any old paperwork. Fire Risk AssessmentMost recent version. 
-Once the paperwork has been renewed with the latest copy the previous copy can be destroyed. There is no need to retain any old paperwork. 5. Celebrations folder
+4.2	The below list details all sections that should be a part of the â€˜Operational Folderâ€™ of the filing 	system in the office. There are contents pages for each, which will show you what needs to be kept 	and filed in that folder and the relevant retention period:
+â€¢ CCTV Log
+â€¢ Period Exceptions 
+â€¢ Product Withdrawals
+        Document
+Retention Time
+Contractor Signing in Form
+12 Years
+CCTV Log Sheet
+12 Months
+Sample Tracker
+3 Years 
+Special Diets infographic and
+Additional Allergen Information 
+Signed by all current colleagues
+Duplicate bank deposit slips
+6 Months
+Collection/change delivery receipts
+6 Months
+Duplicate bank deposit slips should remain in the banking book and be stored in the safe. Staple the cash collection/change delivery receipt to the relevant duplicate deposit slip.
+ADHOC documents you find useful (pay dates, BTR, Crib sheet, weekly wrap up etc)
+No legal obligation to retain
+Stocktake info, Adjustments, low/neg report, Shrink Report
+Previous and Current Period
+All evidence/supporting documentation relating to any investigation Inc. adjustment report, discount and price override report, refund report
+Previous and Current Period
+Printed and signed copies of the exception reports
+Previous and Current Period
+        Document
+Retention Time
+P1 incident process
+Current Version
+Team Talks, Bag Checks
+Previous and Current Period
+Who to contact sheet 
+No legal obligation to retain
+Regional contact sheet
+No legal obligation to retain
+Fire Emergency Plan
+Current Version
+Asbestos Survey Report
+Most recent version. 
+Once the paperwork has been renewed with the latest copy the previous copy can be destroyed. There is no need to retain any old paperwork. 
+Fire Risk Assessment
+Most recent version. 
+Once the paperwork has been renewed with the latest copy the previous copy can be destroyed. There is no need to retain any old paperwork. 
+5. Celebrations folder
 5.1	The Celebrations folder is an optional folder for all colleagues to store any certificates or Epic 	postcards they wish to keep. This folder should be kept in a colleague area where it is accessible to 	all colleagues. 
 6. Front of house filing
 6.1	The below folders are also required and are kept front of house: 
-• Connections & Welfare Folder
-• Easi Training Folder
+â€¢ Connections & Welfare Folder
+â€¢ Easi Training Folder
 7. HR Paperwork Retention times
-7.1	We wouldn’t expect any HR related paperwork to be kept in store, these should be scanned on to 	peopleservices@hollandandbarrett.com. Examples below:
-• Investigation notes 
-• Disciplinary notes 
-• Right to work documents- completed on the People Portal and then shredded 
-• Resignation letters 
-• Probation review forms 
-• Interview feedback - updated in eArcu and then shredded
-• Interview notes scanned to recruitment and then shredded
-• Return to work - completed on the People Portal under ‘New Query or Request’
-• Late to work - completed on the People Portal under ‘New Query or Request’
+7.1	We wouldnâ€™t expect any HR related paperwork to be kept in store, these should be scanned on to 	peopleservices@hollandandbarrett.com. Examples below:
+â€¢ Investigation notes 
+â€¢ Disciplinary notes 
+â€¢ Right to work documents- completed on the People Portal and then shredded 
+â€¢ Resignation letters 
+â€¢ Probation review forms 
+â€¢ Interview feedback - updated in eArcu and then shredded
+â€¢ Interview notes scanned to recruitment and then shredded
+â€¢ Return to work - completed on the People Portal under â€˜New Query or Requestâ€™
+â€¢ Late to work - completed on the People Portal under â€˜New Query or Requestâ€™
 
 Returns, Exchanges & Refunds Policy 
 1. Intro
@@ -1374,7 +1412,7 @@ Any unused item, with its seals intact and in a re-sellable condition, can be re
 2. Accepted refund criteria
 2.1	It is the customer's responsibility to ensure proof of purchase is provided, without this, you must not 	process any refund. 
 2.2	For products being returned with no fault, proof of purchase must be within 30 days of the 	purchase for 	both retail and web purchases to be eligible for a refund, exchange or store credit 	note. The customer must also return the product to a Holland Barrett store to be eligible for a return.
-2.2	90-day money back guarantee schemes are available for selected products only. Proof of purchase 	must be provided, and the customer must return the empty packaging of the product to qualify for a 	return. These products are eligible for return within 100 days of the initial purchase. 
+2.2	90-day money back guarantee schemes are available for selected products only. Proof of purchase 	must be provided, and the customer must return the empty packaging of the product to qualify for a 	return. These products are eligible for return within 100 days of the initial purchase.Â 
 2.3	If a customer is returning a product that is faulty or that has caused an adverse reaction they are 	entitled to a refund, exchange or credit note within a longer timeframe following the initial 	purchase.  Proof of purchase must be provided, and the item being returned must be within its expiry 	date, Best  Before/Best Before End (BBE) or period after opening (PAO) timescale. The item being 	returned does 	not have to have its seals intact. The customer must also return the product to a 	store to be eligible for a return. If the product is not one which has an expiry date, BBE date, or a 	POA timescale, then a refund/exchange should be given within 6 months of the date of purchase.
 2.5	If the business has requested the return of products for recall or withdrawal from customer use, the 	customer is entitled to a refund, exchange or credit note within any timeframe. Where possible, 	proof of purchase should be provided to ensure the return is generated at the correct value. Where 	proof of purchase is unavailable the value of the return should be generated at the price which is 	live in store on the day of the return. The item being returned does not have to have its seals intact.
 2.6	If a customer is returning an online order in full because the goods are damaged, faulty or they 	have suffered an adverse reaction, the customer is entitled to a refund on their postage and 	packaging. If the customer is only returning part of their order, they would not be entitled to a 	refund on postage and packaging. The use of these codes will be monitored, any suspected abuse 	will be investigated and dealt with in accordance with the disciplinary policy. Click here to access 	the Postage & Packaging Refunds document.
@@ -1393,7 +1431,7 @@ Any unused item, with its seals intact and in a re-sellable condition, can be re
 > Feminine hygiene/ sanitary products including underwear.
 > Electrical appliances where the security seal has been removed.
 > Medical devices (e.g., H&B&Me at home blood testing kits) if security seals have been broken.
-> If a security seal has been broken, a refund can be processed minus a £/€10 admin fee.
+> If a security seal has been broken, a refund can be processed minus a Â£/â‚¬10 admin fee.
 > Medicinal Healthcare (even if sealed).
 4.2	You should always refund the purchase price of the product, e.g., buy one get one half price or 	other promotions. When a promotional discount is triggered, the discount is applied across all 	applicable items. 
 4.3	Products purchased on a promotion should be refunded at the promotion offer price. Where a 	receipt is available the till will automatically generate the correct cost for all returns.
@@ -1404,18 +1442,18 @@ Rewards for Life Policy
 1. Statement
 H&B offer a loyalty programme that provides discounts and offers for both our colleagues and customers.
 2. Principles
-2.1	At the till, if the customer wishes to join the RFL programme, a new account can be set up using the 	customer’s personal details. It is important to capture as much detail as the application requires to 	ensure we hold an accurate record for the customer. No single characters or punctuation names, all 	data must be in full with valid contact details. (This is monitored via the single character report).
-2.2	A customer’s email address must be captured to sign them up to the RFL programme.
+2.1	At the till, if the customer wishes to join the RFL programme, a new account can be set up using the 	customerâ€™s personal details. It is important to capture as much detail as the application requires to 	ensure we hold an accurate record for the customer. No single characters or punctuation names, all 	data must be in full with valid contact details. (This is monitored via the single character report).
+2.2	A customerâ€™s email address must be captured to sign them up to the RFL programme.
 2.3	Marketing preferences must be fully explained to the customer and the customer must confirm their 	consent using the till screen.
 2.4	Under no circumstances should a colleague accept or decline marketing preferences or Terms & 	Conditions on behalf of the customer.
-2.5	Any misuse of the programme, for whatever reason, constitutes the falsification of data and will be 	dealt with through the company’s disciplinary procedures.
+2.5	Any misuse of the programme, for whatever reason, constitutes the falsification of data and will be 	dealt with through the companyâ€™s disciplinary procedures.
 3. Money-Off Vouchers
-3.1	Money-off vouchers are issued only if the RFL account is activated – these are via email or post 	depending on customer preferences identified at sign up. 
+3.1	Money-off vouchers are issued only if the RFL account is activated â€“ these are via email or post 	depending on customer preferences identified at sign up.Â 
 3.2	The email/ postal mailer contains their unique money-off voucher printed with their name and 	membership number as well as a scannable barcode to allow you to process it through the till. The 	voucher can be printed at home or presented in the email. It can also be redeemed for online 	purchases.
 3.3	If a customer has agreed to receiving marketing communications, their money-off voucher will also 	include segmented product vouchers which can be used once for one product per voucher (T&Cs 	are printed on the back and are available online).
 3.4	Money-off vouchers can only be used once.
 3.5	Money-off vouchers are valid for 3 months (unless otherwise stated).
-3.6	Money-off vouchers must be presented at time of transaction either online or in store. 
+3.6	Money-off vouchers must be presented at time of transaction either online or in store.Â 
 3.7	Money-off vouchers are non-transferable and cannot be redeemed by anyone other than the card 	holder.
 3.8	Money-off vouchers must be redeemed in full. No change or alternative will be given.
 3. Money-Off Vouchers (cont.)
@@ -1427,14 +1465,14 @@ H&B offer a loyalty programme that provides discounts and offers for both our co
 4.1	Product specific voucher validity varies, please check the details of the voucher before redeeming.
 4.2	The terms and conditions for these vouchers will be listed with each individual voucher and are 	shown in full online.
 5. Consequences of Breaches
-5.1	It is a breach of company policy to falsely use RFL details to increase your store’s RFL participation 	percentage or to create financial gain from the accumulation of RFL points. 
+5.1	It is a breach of company policy to falsely use RFL details to increase your storeâ€™s RFL participation 	percentage or to create financial gain from the accumulation of RFL points. 
 5.2	We monitor and review transactional data using IntelliQ, which highlights potential misuse of the 	RFL programme. 
-5.3	Any instances of misuse and any action taken will be dealt with in accordance with our Disciplinary 	Policy, and disciplinary action may be imposed. This could be up to and including Summary 	Dismissal for Gross Misconduct. 
+5.3	Any instances of misuse and any action taken will be dealt with in accordance with our Disciplinary 	Policy, and disciplinary action may be imposed. This could be up to and including Summary 	Dismissal for Gross Misconduct.Â 
 5.4	Failure to follow company policy on RFL will be deemed as Gross Misconduct putting the 	business at risk under GDPR for the incorrect use of personal data.
-5.5	When setting up a new RFL customer, the details entered must be for a genuine customer who is 	present to provide the details. Additionally, someone that lives at the same address can use the RFL 	account to accumulate points. You must not create an RFL account without a customer present. 
+5.5	When setting up a new RFL customer, the details entered must be for a genuine customer who is 	present to provide the details. Additionally, someone that lives at the same address can use the RFL 	account to accumulate points.Â You must not create an RFL account without a customer present.Â 
 5.6	If a customer does not have an RFL account and declines to set up a new account, no RFL details 	must be applied to the sale. You must not add the RFL details of another customer, this includes 	applying any RFL accounts held by you to the sale.
-5.7	Whenever a sale is processed, the RFL points generated must be applied to the RFL account of the 	customer making the purchase or with the consent of the person making the purchase. 
-5.8	Any RFL money–off coupons issued to customers must be redeemed by the account holder. 	Redeeming RFL money-off vouchers that have been falsely gained from other customer’s sales 	will be treated as Gross Misconduct.
+5.7	Whenever a sale is processed, the RFL points generated must be applied to the RFL account of the 	customer making the purchase or with the consent of the person making the purchase.Â 
+5.8	Any RFL moneyâ€“off coupons issued to customers must be redeemed by the account holder. 	Redeeming RFL money-off vouchers that have been falsely gained from other customerâ€™s sales 	will be treated as Gross Misconduct.
 Signing-In & Search Policy
 1. Signing-In
 1.1	Anyone who is not a permanent colleague, i.e. not contracted to a store, must complete the visitor 	log.
@@ -1447,16 +1485,16 @@ Signing-In & Search Policy
 > Interview candidates
 1.6	All contractors are required to show ID and sign in using a separate form. The Contractor Signing in 	form  is located on the Hub and must be printed and stored in your Welfare & Connections folder. 
 1.7	If visited by Environmental Health, Trading Standards or a Fire Officer, ensure that they leave 	contact details, and you notify the EHS Department.
-1.8	If you are ever unsure about an individual’s ID or someone's right to access the store - you must 	refuse them access to the premises and call the Retail Support Help Desk for further guidance.
+1.8	If you are ever unsure about an individualâ€™s ID or someone's right to access the store - you must 	refuse them access to the premises and call the Retail Support Help Desk for further guidance.
 2. Stop & Search
 2.1	To protect both The Company and you, we have the right to carry out random searches of your 	belongings, bags, pockets, coats, vehicles and lockers as well as non-invasive personal searches. 
 2.2	If you are searched, you will be offered the opportunity to be accompanied and will be invited to 	remove items yourself from your person or property. 
 2.3	You can refuse to be searched; however, any refusal may be considered a breach of the Stop and 	Search Policy and disciplinary action may be taken against you in accordance with the Disciplinary 	Policy.
 2.4	Bag checks
 	Colleagues are to be searched at random at least once a week. All visitors and contractors must be 	searched before leaving the store. 
-2.5	The person completing the check must not touch the colleague’s belongings, but request that they 	are shown the contents of bags and coats. 
+2.5	The person completing the check must not touch the colleagueâ€™s belongings, but request that they 	are shown the contents of bags and coats. 
 2.6	Any items found that are stocked in-store must be accounted for with a valid receipt or proof of 	purchase.
-2.7	The person completing the check must confirm the bag check has been completed upon the 	visitor’s sign out. 
+2.7	The person completing the check must confirm the bag check has been completed upon the 	visitorâ€™s sign out. 
 Smoking Policy
 1. Statement
 As a company that promotes Health and Wellbeing for all, we operate a strict no smoking policy which complies with non-smoking legislation. This includes e-cigarettes and vapes.
@@ -1490,7 +1528,7 @@ The safety and security of all our colleagues and stores is of utmost priority a
 2.1	In order to be a key holder, a colleague must have completed operational training level 1 and be 	considered responsible by their manager. 
 2.2	A key holder is trained to open and/or close a store and run the store in the absence of 	management. This may include their home store or another store if required. 
 2.3	If lone working, the colleague must adhere to the guidance outlined in the Lone Working Policy.  
-2.4	Under no circumstances are the store keys to be left unattended. They should be always kept 	on the key holder’s person whilst at work. 
+2.4	Under no circumstances are the store keys to be left unattended. They should be always kept 	on the key holderâ€™s person whilst at work. 
 2.5	Till keys and CCTV keys must be locked in the safe in a signed envelope and recorded in the Digital 	Key Log.
 2.6	There should be nothing on the keys that identifies H&B as your place of work in-case the keys are 	misplaced.
 3. Temporary Key Holders
@@ -1508,16 +1546,16 @@ The safety and security of all our colleagues and stores is of utmost priority a
 	Examples of people who may need keys include:
 > Contractors who need overnight access for work i.e. refits. Please note all out of hours work needs to be approved via your RM or the Nuneaton Hub.
 > Contractors who need access to the back of house. 
-> Nuneaton Hub colleagues who need to work from a store and require access to the manager’s office. They will always call ahead to approve this with the manager.
-> With the exception of RM’s and DS’s, all visitors who may require access to locked/pin coded areas will approve this with store management in advance. 
-> Visitors (not including customers) must be made aware of hazards, procedures and work practices in operation. These include the company’s safety procedures, such as alarm call systems, escape routes and assembly points, the smoking policy, visitor sign in policy and accident reporting procedures. 
+> Nuneaton Hub colleagues who need to work from a store and require access to the managerâ€™s office. They will always call ahead to approve this with the manager.
+> With the exception of RMâ€™s and DSâ€™s, all visitors who may require access to locked/pin coded areas will approve this with store management in advance. 
+> Visitors (not including customers) must be made aware of hazards, procedures and work practices in operation. These include the companyâ€™s safety procedures, such as alarm call systems, escape routes and assembly points, the smoking policy, visitor sign in policy and accident reporting procedures. 
 6. What To Do If a Key Holder Leaves
 6.1	When a key holding colleague leaves the company, the following actions need to happen on the 	day the key holder leaves the store (including temporary key holders who may be covering the 	store). It is the responsibility of  the store management and the RM to ensure these actions are 	completed. 
 6.2	If the store has a burglar alarm fitted, then the alarm code will need to be changed. This should be 	done on the day the employee leaves. This can be done manually in most cases, however, if there is 	a problem, you will need to contact the Facilities Helpdesk via HALO.
 6.3	If there are no suspicious circumstances surrounding the key holding colleague and all the store 	keys are accounted for, then no action needs to be taken with regards to changing the locks in the 	store and the Digital Key Log updated.
 6.4	If there are suspicious circumstances, then as a minimum, the stores front door locks and rear locks 	(if there is access from outside) should be changed.
 6.5	Suspicious circumstances include but are not limited to key holder leaving whilst under 	investigation without notice or a break-in is reported without forced entry. 
-6.6	In all cases of dismissal for gross misconduct, both the alarm code should be deleted, and the door 	locks should be changed. If a safe key cannot be accounted for, then the safe lock should also be 	changed, and the keys logged as ‘lost’ in the Digital Key Log. 
+6.6	In all cases of dismissal for gross misconduct, both the alarm code should be deleted, and the door 	locks should be changed. If a safe key cannot be accounted for, then the safe lock should also be 	changed, and the keys logged as â€˜lostâ€™ in the Digital Key Log. 
 7. Store Keys & Digital Key Log
 7.1	To establish and uphold safety and security in store, the Digital Key Log stores records on the 	location of all 	keys in the business. 
 7.2	All store keys and store key sets must be registered to the Digital Key Log.
@@ -1555,23 +1593,23 @@ The purpose of this store guidance document is to provide a framework of minimum
 4.6	The supplier must comply at all times with the requirements, recommendations and regulations of 	the landlord or the insurers including but not limited to those relating to works, the property and 	access.
 Too Good To Waste Policy
 1. Statement
-We endeavour to sell all our products before they approach their best before or use by dates. Unfortunately, that isn’t always possible, so to protect margin we have a best before reduction process that is designed to prevent as many products as possible from going to waste. 
+We endeavour to sell all our products before they approach their best before or use by dates. Unfortunately, that isnâ€™t always possible, so to protect margin we have a best before reduction process that is designed to prevent as many products as possible from going to waste. 
 2. Too Good To Waste 
-2.1    Our ‘Too Good To Waste’ (TGTW) scheme allows certain products to be sold for 28 days after their best 	before date. See the Reduction Banding document for more details HERE. 
-2.2   Products which are NOT included in Too Good to Waste will be reduced by 90% in the last day prior to 	expiry to support product sell through. 
-2.3   Reductions should be completed daily using Destiny on the HHT. This allows reduction labels to be 	reprinted to display the correct reduced price within the required timeframe. This also identifies which 	products need to be removed from sale. 
-2.4   Discounts will be monitored to ensure they are within policy and the markdown process is being followed.
+2.1Â  Â Â Our â€˜Too Good To Wasteâ€™ (TGTW) scheme allows certain products to be sold for 28 days after their best 	before date. See the Reduction Banding document for more details HERE. 
+2.2 Â Â Products which are NOT included in Too Good to Waste will be reduced by 90% in the last day prior to 	expiry to support product sell through. 
+2.3 Â Â Reductions should be completed daily using Destiny on the HHT. This allows reduction labels to be 	reprinted to display the correct reduced price within the required timeframe. This also identifies which 	products need to be removed from sale. 
+2.4 Â Â Discounts will be monitored to ensure they are within policy and the markdown process is being followed.
 3. Notifying The Customer 
-3.1    All TGTW products must be displayed near a TGTW strut card as we have an obligation to notify the 	customer that the item is past its BBE date.
-3.2    All short-dated products or expired products included in TGTW must display a reduced to clear (RTC) 	sticker. 
-3.3    When displaying reduction labels, we must not cover the expiry date, batch number, directional 	instructions, ingredients, any allergy information or nutritional details or that product. For further 	information on sticker placement please refer to One H&B Way- Date Checking HERE
+3.1Â  Â Â All TGTW products must be displayed near a TGTW strut card as we have an obligation to notify the 	customer that the item is past its BBE date.
+3.2Â  Â Â All short-dated products or expired products included in TGTW must display a reduced to clear (RTC) 	sticker. 
+3.3Â  Â Â When displaying reduction labels, we must not cover the expiry date, batch number, directional 	instructions, ingredients, any allergy information or nutritional details or that product. For further 	information on sticker placement please refer to One H&B Way- Date Checking HERE
 4. 	Which products cannot be sold past their BBE 	date?
-4.1    Reasons why some categories cannot be sold past their BBE date:
-• Products sold for specific health benefits where the benefits may be eroded if used after the BBE date.
-• Certain ingredients in a product could begin to degrade deeming them unfit for consumption.
-• The product is to be consumed over a long period of time after purchase and may not provide the same level of performance if consumed following BBE date.
-• All products with a 'Use By' date are NOT to be sold past this date.
-• If an approved item is not sold within 4 weeks of expiry adjust the stock file accordingly on SIMBA using ‘Past Expiry Out’ as the reason code.
+4.1Â  Â Â Reasons why some categories cannot be sold past their BBE date:
+â€¢ Products sold for specific health benefits where the benefits may be eroded if used after the BBE date.
+â€¢ Certain ingredients in a product could begin to degrade deeming them unfit for consumption.
+â€¢ The product is to be consumed over a long period of time after purchase and may not provide the same level of performance if consumed following BBE date.
+â€¢ All products with a 'Use By' date are NOT to be sold past this date.
+â€¢ If an approved item is not sold within 4 weeks of expiry adjust the stock file accordingly on SIMBA using â€˜Past Expiry Outâ€™ as the reason code.
 
 
 	
